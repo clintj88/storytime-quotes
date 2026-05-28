@@ -1,8 +1,8 @@
 {
-  "version": "20260528-2",
+  "version": "20260528-3",
   "released": "2026-05-27",
-  "sha256": "c0e8163afc767112a146972ead5b5dea13fd0a7c26c1c26f1f17a122fef4234e",
-  "size": 1652010,
+  "sha256": "977c8012b9a4dd9a56f8668ef3ce37b8c35a95b0058ef0213571b43ae60c1428",
+  "size": 1651778,
   "url": "https://cdn.jsdelivr.net/gh/clintj88/storytime-quotes@main/quotes.txt",
-  "notes": "test (manifest URL switched to jsdelivr CDN for reliability)"
+  "notes": "clean-up"
 }
