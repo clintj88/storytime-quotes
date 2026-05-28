@@ -1,8 +1,8 @@
 {
   "version": "20260528-3",
-  "released": "2026-05-27",
+  "released": "2026-05-28",
   "sha256": "977c8012b9a4dd9a56f8668ef3ce37b8c35a95b0058ef0213571b43ae60c1428",
   "size": 1651778,
-  "url": "https://cdn.jsdelivr.net/gh/clintj88/storytime-quotes@main/quotes.txt",
-  "notes": "clean-up"
+  "url": "https://cdn.jsdelivr.net/gh/clintj88/storytime-quotes@727fe31907f0cf8ec01b35fedfd7519dcb54da84/quotes.txt",
+  "notes": "clean-up (manifest re-pinned to commit hash to bypass jsdelivr cache lag)"
 }
