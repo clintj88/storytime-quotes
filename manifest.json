@@ -1,8 +1,8 @@
 {
   "version": "20260528-4",
-  "released": "2026-05-27",
+  "released": "2026-05-28",
   "sha256": "2fac02e6dbafb99734cacc86cd67a865510925262e2201b1ef4b8fa51781bd35",
   "size": 1651690,
-  "url": "https://cdn.jsdelivr.net/gh/clintj88/storytime-quotes@695e5af7ac6ade0af6e22de6493d29550981ffa9/quotes.txt",
-  "notes": "clean up"
+  "url": "https://raw.githubusercontent.com/clintj88/storytime-quotes/695e5af7ac6ade0af6e22de6493d29550981ffa9/quotes.txt",
+  "notes": "Switched URL to GitHub raw (commit-pinned). jsdelivr used chunked-transfer encoding which the firmware's manual stream reader couldn't decode, causing a ~170-byte size mismatch on download. raw serves with proper Content-Length and same hash-pin guarantees no cache lag."
 }
