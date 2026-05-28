@@ -1,8 +1,8 @@
 {
-  "version": "20260528",
-  "released": "2026-05-28",
-  "sha256": "5630fef4f31e361ba648d7045ad480693963e695ba44a4c3104e588f16cffea1",
-  "size": 1652679,
+  "version": "20260528-2",
+  "released": "2026-05-27",
+  "sha256": "c0e8163afc767112a146972ead5b5dea13fd0a7c26c1c26f1f17a122fef4234e",
+  "size": 1652010,
   "url": "https://raw.githubusercontent.com/clintj88/storytime-quotes/main/quotes.txt",
-  "notes": "Initial public release. 10,667 quotes, 100% minute coverage."
+  "notes": "test"
 }
