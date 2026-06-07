@@ -1,8 +1,8 @@
 {
-  "version": "20260528-6",
-  "released": "2026-06-06",
-  "sha256": "2fac02e6dbafb99734cacc86cd67a865510925262e2201b1ef4b8fa51781bd35",
-  "size": 1651690,
-  "url": "https://quotes.storytimeclock.com/quotes.txt",
-  "notes": "Quotes now served from the R2 custom domain quotes.storytimeclock.com (production-grade: CDN-cached, no rate limit, proper Content-Length). Replaces the pub-*.r2.dev dev URL."
+  "version": "20260607",
+  "released": "2026-06-07",
+  "sha256": "8e4c4177e425eb45945109d946c206ff945a90ec4fc508c72efb89a5d3f5c3ed",
+  "size": 1572757,
+  "url": "https://quotes.storytimeclock.com/quotes-20260607.txt",
+  "notes": "Retire 443 false time-matches (years/durations/numbers) + strip scraped scene-break asterisks; pairs with the v2.0.2 renderer fix"
 }
