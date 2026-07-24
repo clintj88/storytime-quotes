@@ -1,0 +1,42 @@
+name: Rotate quote volume
+
+# Cycles the published quote corpus through the 6 rotating volumes so the
+# fleet's display stays fresh. Pure metadata flip — all volumes are already on
+# R2 and CDN-verified; this only rewrites manifest.json. Devices see a new
+# version on their next check-in and swap through the hardened, hash-verified
+# OTA path.
+
+on:
+  schedule:
+    # 09:00 UTC on the 1st of every month. Six volumes => each is shown for a
+    # month and comes round again twice a year.
+    - cron: "0 9 1 * *"
+  workflow_dispatch:        # "Run workflow" button = rotate now, on demand
+
+permissions:
+  contents: write           # commit the updated manifest.json + rotation.json
+
+concurrency: rotate-quotes  # never let two rotations race
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Advance to the next volume
+        run: python3 rotate_quotes.py
+      - name: Verify the new manifest points at a live, hash-correct file
+        run: |
+          URL=$(python3 -c "import json;print(json.load(open('manifest.json'))['url'])")
+          SHA=$(python3 -c "import json;print(json.load(open('manifest.json'))['sha256'])")
+          GOT=$(curl -sSL "$URL" | sha256sum | awk '{print $1}')
+          echo "manifest: $SHA"; echo "served:   $GOT"
+          test "$SHA" = "$GOT" || { echo "::error::manifest hash != served file — aborting"; exit 1; }
+      - name: Commit and push
+        run: |
+          git config user.name  "storytime-rotator"
+          git config user.email "actions@users.noreply.github.com"
+          VER=$(python3 -c "import json;print(json.load(open('manifest.json'))['version'])")
+          git add manifest.json rotation.json
+          git commit -m "Rotate quotes -> ${VER}"
+          git push

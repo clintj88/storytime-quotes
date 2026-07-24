@@ -1,0 +1,49 @@
+{
+  "_comment": "Rotating quote volumes. rotate_quotes.py picks volumes[index], writes manifest.json, then advances index (mod 6) and bumps release. vol1 (index 0) is already live as release 1, so we start at index 1 / release 2.",
+  "index": 1,
+  "release": 2,
+  "volumes": [
+    {
+      "vol": 1,
+      "file": "quotes-vol1-20260723.txt",
+      "url": "https://quotes.storytimeclock.com/quotes-vol1-20260723.txt",
+      "sha256": "841dd1968c5729c7a6e74c12da605102b0b70c475c8fb6602f19583bf6515e6d",
+      "size": 737859
+    },
+    {
+      "vol": 2,
+      "file": "quotes-vol2-20260723.txt",
+      "url": "https://quotes.storytimeclock.com/quotes-vol2-20260723.txt",
+      "sha256": "574331d3977db8b90b50234341b8c7e5159f9791522bd34e001328f3958a2cf6",
+      "size": 811892
+    },
+    {
+      "vol": 3,
+      "file": "quotes-vol3-20260723.txt",
+      "url": "https://quotes.storytimeclock.com/quotes-vol3-20260723.txt",
+      "sha256": "eaa75007eed5fa3f4d2b344ad157b3490a5387b6dac5a160b2f0acc54743c3de",
+      "size": 794998
+    },
+    {
+      "vol": 4,
+      "file": "quotes-vol4-20260723.txt",
+      "url": "https://quotes.storytimeclock.com/quotes-vol4-20260723.txt",
+      "sha256": "72e547e8e4554a759ef2508615e2877f93b88a94bfe73237e768549b8c94dfef",
+      "size": 803204
+    },
+    {
+      "vol": 5,
+      "file": "quotes-vol5-20260723.txt",
+      "url": "https://quotes.storytimeclock.com/quotes-vol5-20260723.txt",
+      "sha256": "3d60b8b5fe94021b2f5f906b064862eb74f89e833f437cfae62885ae452e099b",
+      "size": 759334
+    },
+    {
+      "vol": 6,
+      "file": "quotes-vol6-20260723.txt",
+      "url": "https://quotes.storytimeclock.com/quotes-vol6-20260723.txt",
+      "sha256": "d1408f6e4f26e330ca722c7c00a69836077a199847901a095d379199691a0e68",
+      "size": 759820
+    }
+  ]
+}
