@@ -1,8 +1,8 @@
 {
-  "version": "20260607-2",
-  "released": "2026-06-07",
-  "sha256": "4094b89e6a3b87e323010eeff3fb5704f052d2d7abe9c165d1782627cff2053d",
-  "size": 1418398,
-  "url": "https://quotes.storytimeclock.com/quotes-20260607-2.txt",
-  "notes": "cleaning up"
+  "version": "20260723-v1",
+  "released": "2026-07-23",
+  "sha256": "841dd1968c5729c7a6e74c12da605102b0b70c475c8fb6602f19583bf6515e6d",
+  "size": 737859,
+  "url": "https://quotes.storytimeclock.com/quotes-vol1-20260723.txt",
+  "notes": "Clean-room public-domain corpus, Volume I of 6. All 1440 minutes covered; ~80% confidently time-pinned; invented and in-copyright quotes removed. Rotating volumes keep the display fresh - bump to vol2 next cycle."
 }
