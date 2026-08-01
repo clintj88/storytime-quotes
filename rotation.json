@@ -1,7 +1,7 @@
 {
   "_comment": "Rotating quote volumes. rotate_quotes.py picks volumes[index], writes manifest.json, then advances index (mod 6) and bumps release. vol1 (index 0) is already live as release 1, so we start at index 1 / release 2.",
-  "index": 1,
-  "release": 2,
+  "index": 2,
+  "release": 3,
   "volumes": [
     {
       "vol": 1,
