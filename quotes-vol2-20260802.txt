@@ -37,7 +37,7 @@
 00:00|"But this town is bigger, noisier, fuller of life and fun than anything I can recall." "We have until *midnight* before the home train leaves," pursued Dick.|H. Irving (Harrie Irving) Hancock|Dick Prescott's Second Year at West Point Or, Finding the Glory of the Soldier's Life
 00:00|"But, just because the full moon has risen upon *midnight*, shall we refuse to look at the stars?|Myrtle Reed|Master of the Vineyard
 00:00|"By Jove!" thought I, "it is now close upon *midnight*, a rare opportunity for me to see the wonders of St.|S. (Sabine) Baring-Gould|A Book of Ghosts
-00:00|"Can you not let me alone, even at *midnight*?" "What is the matter with you?|Amelia E. Barr|A Reconstructed Marriage
+00:00|"Hot, isn't it?" "Yes, there will be a tempest soon." "Not before *midnight*, I think.|H. Rider (Henry Rider) Haggard|Dawn
 00:01|It is generally supposed that the arrest took place in the garden *between midnight and one o'clock*.|Walter M. (Walter Marion) Chandler|The Trial of Jesus from a Lawyer's Standpoint, Vol. 1 (of 2) The Hebrew Trial
 00:02|I exclaimed, 'The dining-room clock!' I sprang from bed and went down, and found that the clock was fast, as it showed *two minutes past twelve* o'clock.|St. John D. (St. John Drelincourt) [Compiler] Seymour|True Irish Ghost Stories
 00:03|Clemmens received the blow which led to her death at some time previously to *three minutes past twelve* o'clock on Tuesday, September 26th.|Anna Katharine Green|Hand and Ring
@@ -115,7 +115,7 @@
 00:30|I heard Big Ben strike *half-past twelve*, and then I put the book down, and went out on to the balcony of my window for a little fresh air before going to bed.|Arnold Bennett|The Grand Babylon Hotel
 00:30|I remained at my friend's until *half-past twelve*.|Hugo P. (Hugo Paul) Thieme|Women of Modern France
 00:30|I shall place you _probably_ in possession of such proof as will thoroughly convince you." "Thank you, sir, go on." "I shall be at Marlowe to-morrow--you must arrive late--on no account earlier than *half-past twelve*.|Joseph Sheridan Le Fanu|Guy Deverell, v. 2 of 2
-00:30|I would give up--" "*Half-past twelve*, then, Marchese.|Robert Hichens|A Spirit in Prison
+00:30|It is now *half-past twelve*; the wind is still very high, but our captain is anxious to try to proceed.|John James Audubon|Audubon and His Journals, Volume 1
 00:30|It was now about *half past twelve*, but my nerves were at such a tension that I could not endure the mere thought of going to bed.|James Weldon Johnson|The Autobiography of an Ex-Colored Man
 00:30|The meet was to be at one, and they only rode into the grounds at *half-past twelve*, when everyone else had breakfasted.|M. E. (Mary Elizabeth) Braddon|Vixen, Volume I.
 00:30|The record slips showed that the last call had been received at *12.30 A.M.*, on Friday.|Rodrigues Ottolengui|Final Proof; Or, The Value of Evidence
@@ -157,6 +157,7 @@
 00:48|It is generally supposed that the arrest took place in the garden *between midnight and one o'clock*.|Walter M. (Walter Marion) Chandler|The Trial of Jesus from a Lawyer's Standpoint, Vol. 1 (of 2) The Hebrew Trial
 00:49|It is generally supposed that the arrest took place in the garden *between midnight and one o'clock*.|Walter M. (Walter Marion) Chandler|The Trial of Jesus from a Lawyer's Standpoint, Vol. 1 (of 2) The Hebrew Trial
 00:50|"*Ten minutes of one* of those showers will be sufficient to supply all our wants." Still the rain continued falling, and the thirsty voyagers fancied they could hear the splash in the water, so near did one or two showers come to them.|William Henry Giles Kingston|The Voyages of the "Ranger" and "Crusader" And what befell their Passengers and Crews.
+00:50|"It is *ten minutes to one*."|Jules Verne|The Adventures of a Special Correspondent Among the Various Races and Countries of Central Asia
 00:50|It was due in Poughkeepsie at *ten minutes before one*, and left half an hour behind its time.|Oliver Optic|Seek and Find; or, The Adventures of a Smart Boy
 00:50|What o'clock is it?" "*Ten minutes to one*." "Have you time for another turn before I go in?" "Of course--all the time.|F. Marion (Francis Marion) Crawford|Marion Darche: A Story Without Comment
 00:51|I fancy he left the hotel *some minutes before one o'clock* on Friday morning." "And what did you do?" "I remained in the hotel.|Fergus Hume|The Mystery of a Hansom Cab
@@ -181,6 +182,7 @@
 01:00|"This morning, sir, at *one o'clock*." In three strides Donaldson was across the room.|Frederick Orin Bartlett|The Seventh Noon
 01:00|"Who the deuce is walking, at *one o'clock* in the morning, through the house in which the Baron d'Hautrec was killed?" Herlock Sholmes asked himself, deeply interested.|Maurice Leblanc|Arsene Lupin versus Herlock Sholmes
 01:00|"You'll ride up to Twistle Farm after supper; your father willn't be gone to bed--he sits up reading till *one o'clock* in the morning.|Philip Gilbert Hamerton|Wenderholme: A Story of Lancashire and Yorkshire
+01:00|'It was *one o'clock*, or a little past, when they drove up to the prison gate; and a mist beginning to gather above North Hessary, as at this time of year it often does after a clear morning.|Arthur Quiller-Couch|Corporal Sam and Other Stories
 01:00|'Twas *one o'clock* in the Morning when the Czar was pleas'd to shift his Lodging, and the Marshal _de Tesse_ would have been sadly put to it, had he not caus'd the Palace of _Lesdiguieres_ to be furnish'd by way of Precaution.|Karl Ludwig, Freiherr von Pollnitz|The Memoirs of Charles-Lewis, Baron de Pollnitz, Volume III Being the Observations He Made in His Late Travels from Prussia thro' Germany, Italy, France, Flanders, Holland, England, &C. in Letters to His Friend. Discovering Not Only the Present State of the Chief Cities and Towns; but the Characters of the Principal Persons at the Several Courts.
 01:00|*One o'clock*, hey?' At this moment entered Major O'Neill, of the Royal Irish Artillery, a small man, very neatly got up, and with a decidedly Milesian cast of countenance, who said little, but smiled agreeably-- 'Gentlemen, your most obedient.|Joseph Sheridan Le Fanu|The House by the Church-Yard
 01:00|A young lady and gentleman-- they had markedly this appearance--indulging in a moonlight stroll at nigh *one o'clock* of the morning, were not likely to escape scandal if seen.|Mayne Reid|The Fatal Cord, and The Falcon Rover
@@ -198,7 +200,6 @@
 01:00|At *one o'clock* in the morning fifty men were to meet in the garden of a rich Carlist proprietor, and fifty more in the wine-cellar of another, to arm and equip themselves.|Armando Palacio Valdes|The Marquis of Penalta (Marta y Maria): A Realistic Social Novel
 01:00|At *one o'clock* in the morning the Rue de la Sante, the Boulevard Arago and all the streets abutting on the gaol were guarded by police, who allowed no one to pass without a regular cross-examination.|Maurice Leblanc|The Crystal Stopper
 01:00|At *one o'clock* in the morning there was a stir, and the body of men with pikes moved down the street.|G. A. (George Alfred) Henty|In the Reign of Terror: The Adventures of a Westminster Boy
-01:00|At *one o'clock* in the morning, after a prodigious drunk, I was tottering aboard a sloop at the end of the wharf, intending to go to sleep.|Jack London|John Barleycorn
 01:00|At *one o'clock* it began to rain, and I met Harry Murcher--him who has the Holland Grove beat--and we stood together at the corner of Henrietta Street a-talkin'.|Arthur Conan Doyle|A Study in Scarlet
 01:00|Capers told me that their autobiographies drew smiles and tears alternately; they continued till *one o'clock*; then one of the class said, 'Brothers, do you know that not a wineglass has yet been turned up, not a drop of wine drunk?|Maria Mitchell|Maria Mitchell: Life, Letters, and Journals
 01:00|He roused me up about *one o'clock*, and I could hardly make any explanation to my mates.|Rolf Boldrewood|Robbery under Arms A Story of Life and Adventure in the Bush and in the Australian Goldfields
@@ -213,6 +214,7 @@
 01:02|"At one I entered the club, at *two minutes past one* James B."|Harry Furniss|The Confessions of a Caricaturist, Vol. 2
 01:03|And then, just as she was dozing off--it must have been *about one o'clock*--she heard the sound she had half unconsciously been expecting to hear, that of the lodger's stealthy footsteps coming down the stairs just outside her room.|Marie Belloc Lowndes|The Lodger
 01:04|"Row on, we have not much farther to go." At length the rain became finer, but at *four minutes after one* o'clock, we heard a deafening roar in the north-east, a sound such as only a storm of the greatest violence can produce.|Sven Anders Hedin|Trans-Himalaya: Discoveries and Adventurers in Tibet. Vol. 2 (of 2)
+01:04|The electric timepiece on the roofs marked *four minutes past one* as they rattled past.|Arthur Cheney Train|Mortmain
 01:05|Finding it all right he kicked steps up, and at *five minutes past one* we reached the cairn, having taken one hour and thirty-five minutes from the glacier.|Aubrey, Mrs. Le Blond|True Tales of Mountain Adventures: For Non-Climbers Young and Old
 01:06|Then we set out again for Marseilles, which we reached *just after one o'clock* in the morning, drawing up at the Louvre et Paix, which every visitor to the capital of Southern France knows so well.|William Le Queux|The Count's Chauffeur
 01:07|On the morning of the 17th of February, *between twelve and three o'clock*, the crew witnessed a magnificent spectacle, then first seen by European eyes.|Jules Verne|Celebrated Travels and Travellers, Part 2. The Great Navigators of the Eighteenth Century
@@ -348,6 +350,7 @@
 02:00|'Take that!' says Skipper Davy, with the toe of his boot, 'an' I'm sorry t' have to do it, but you can't fall asleep on a stack o' green cod at *two o'clock* in the mornin' an' be a success in life.|Norman Duncan|Harbor Tales Down North With an Appreciation by Wilfred T. Grenfell, M.D.
 02:00|*Two o'clock* in the morning is an unreasonable time; and if my pupil must sit up till then, he must play in the daytime and draw in the evening." "What!|Alexandre Dumas|The conspirators; or, The chevalier d'Harmental
 02:00|A certain reporter of humorous scandal, after his third tumbler, would occasionally give a graphic description of what, coming from a supper-party, he once saw about *two o'clock* in the morning.|George MacDonald|Sir Gibbie
+02:00|A fine forenoon, rain from *two o'clock*, 45 13.|Archibald, Sir Alison|Travels in France during the years 1814-15 Comprising a residence at Paris, during the stay of the allied armies, and at Aix, at the period of the landing of Bonaparte, in two volumes.
 02:00|A killdeer sweeping the lake close *two o'clock* one morning awakened him.|Gene Stratton-Porter|The Harvester
 02:00|A portion immediately resolved to push on to his help, and snatching a few hours of repose, they, at *two o'clock* in the morning, tumbled up from their couch of snow, and falling into marching order, hurried forward through the gloom.|Joel Tyler Headley|The Second War with England, Vol. 1 of 2
 02:00|About *two o'clock* I was awakened with a smothered feeling, struggling for breath.|Carry Amelia Nation|The Use and Need of the Life of Carry A. Nation
@@ -362,7 +365,6 @@
 02:00|About ten at night, said his companion, as we were talking together, an officer of the company came up, and told us we should retreat at *two o'clock* in the morning.|S. Emma E. (Sarah Emma Evelyn) Edmonds|Nurse and Spy in the Union Army The Adventures and Experiences of a Woman in Hospitals, Camps, and Battle-Fields
 02:00|Alice dozed for an hour or so on the sofa, and Priam read by her side in an easy-chair, and about *two o'clock*, just before the first beginnings of dawn, they stimulated themselves into a feverish activity beneath the parlour gas.|Arnold Bennett|Buried Alive: A Tale of These Days
 02:00|Allowing for the time consumed in speaking to the landlord, and in getting on my clothes, I answered that I must have first seen the Woman at *two o'clock* in the morning.|Julian [Editor] Hawthorne|The Lock and Key Library: Classic Mystery and Detective Stories: Modern English
-02:00|And of course there was nobody on the road, because it was *two o'clock* in the morning." "Yes, there was no one," said Guerchard slowly.|Maurice Leblanc|Arsene Lupin
 02:00|As Madeline laid her watch on the bureau she noticed that the time was past *two o'clock*.|Zane Grey|The Light of the Western Stars
 02:00|At about *two o'clock* she crawled faintly upstairs again, and had just fallen asleep with her head on the window-sill, when a wandering dog had to come directly under the window, and sit there and bark for half an hour at a rake-handle.|Elizabeth Stuart Phelps|Men, Women, and Ghosts
 02:00|Frank M'Kenna and his wife reached home about *two o'clock*; the dance was comparatively thin, though still kept up with considerable spirit.|William Carleton|The Hedge School; The Midnight Mass; The Donagh Traits And Stories Of The Irish Peasantry, The Works of William Carleton, Volume Three
@@ -385,6 +387,7 @@
 02:09|*Between two and three o'clock* in the morning he awoke Mrs.|Washington Irving|The Student's Life of Washington; Condensed from the Larger Work of Washington Irving For Young Persons and for the Use of Schools
 02:10|It was *ten minutes after two* when a shout was heard from the outer office and a warden with a paper came running, shrieking, "_Reprieve!|Ernest Thompson Seton|The Preacher of Cedar Mountain: A Tale of the Open Country
 02:10|July 12th, *2:10 a.m.*;" and then followed a long row of ciphers, each of which I carefully wrote down upon the paper before me, reading it through aloud, in order that he might compare it with his copy.|William Le Queux|Her Majesty's Minister
+02:10|That evening we came in for a heavy storm, which compelled us to halt from 6 o'clock until *2.10 a.m.*|Arnold Henry Savage Landor|Across Unknown South America
 02:10|What time is it?" "*Ten minutes past two*, sir," answered the man, looking at the clock and blinking.|Oscar Wilde|The Picture of Dorian Gray
 02:11|*Between two and three o'clock* in the morning he awoke Mrs.|Washington Irving|The Student's Life of Washington; Condensed from the Larger Work of Washington Irving For Young Persons and for the Use of Schools
 02:12|*Between two and three o'clock* in the morning he awoke Mrs.|Washington Irving|The Student's Life of Washington; Condensed from the Larger Work of Washington Irving For Young Persons and for the Use of Schools
@@ -420,6 +423,7 @@
 02:30|"I beg your pardon; but when can I see you--how long will it take you to finish dressing?" Edith glanced at the clock, and a little smile of triumph curled her lips, for she saw that the hands pointed to *half-past two*.|Georgie, Mrs. Sheldon|The Masked Bridal
 02:30|"I would--now--write him as soon as I get back from lunch." "Write him right away!" Scheikowitz insisted; and, though Marcus had breakfasted before seven that morning and it was then *half-past two*, he turned to his desk without further parley.|Montague Glass|Elkan Lubliner, American
 02:30|"It will get Bowman out of the way." About *half-past two* Bowman entered the public room where Fred was reading.|Horatio, Jr. Alger|The Erie Train Boy
+02:30|"On the morning of the 26th I felt confident that I could hold my own, and was ready as far as I could be, when at daylight, about *2:30 A.M.*, I heard the crack of two rifles.|Frances Fuller Victor|Eleven Years in the Rocky Mountains and Life on the Frontier Also a History of the Sioux War, and a Life of Gen. George A. Custer with Full Account of His Last Battle
 02:30|"The bombardment commenced at *half-past two* on Monday, and continued till Wednesday, when the troops succeeded in taking possession of the city.|A. L. O. E.|The Spanish Cavalier: A Story of Seville
 02:30|"Yes?" "One of the constables told me you asked when I would be in, and he replied at *half-past two*; it is a quarter-past three now.|Robert Machray|The Mystery of Lincoln's Inn
 02:30|'Expect me to turn up at *half-past two*.' Aha, I thought so!|Grant Allen|The Beckoning Hand, and Other Stories
@@ -434,9 +438,7 @@
 02:30|At *half-past two* I dismissed my company, and stood at the window to be ready to go down directly Branicki's carriage appeared.|Giacomo Casanova|The Memoirs of Jacques Casanova de Seingalt, 1725-1798. Volume 25: Russia and Poland
 02:30|At *half-past two* attended a meeting for the children.|Rufus M. (Rufus Matthew) Jones|Eli and Sibyl Jones, Their Life and Work
 02:30|At *half-past two* in the morning she heard the opening and shutting of the front door, and her father's footsteps on the stairs as he came up to bed.|Adeline Sergeant|Brooke's Daughter: A Novel
-02:30|At *half-past two* o'clock I went over the ferry to Hamilton Avenue, Brooklyn.|Edward F. (Edward Fitch) Underhill|The History and Records of the Elephant Club
 02:30|At *half-past two* o'clock the spectacle changed to darkness, which, on dispersing, displayed a luminous rainbow in the zenith of the heavens and round the ridge of darkness that overhung the southern portion of the country.|Henry Rowe Schoolcraft|Personal Memoirs of a Residence of Thirty Years with the Indian Tribes on the American Frontiers
-02:30|At *half-past two* the Queen had not yet arrived, and there was a hesitation about waiting any longer, when frenzied hurrahs, rending the air for the length of a mile, announced her Majesty's speedy arrival.|Jean-Eugene Robert-Houdin|Memoirs of Robert-Houdin, ambassador, author and conjurer
 02:30|At about *half past two* he awoke, and waited a little longer.|James De Mille|The Lily and the Cross: A Tale of Acadia
 02:30|Came on to Fairfax Court House, where we got supper, and leaving there at ten o'clock reached home at *half-past two* this morning, having had a sad day and witnessed scenes I hope never to see again.|Horace White|The Life of Lyman Trumbull
 02:30|He "dined, smoked, and opened his heart" to them; and concluded this memorable visit at the witching hour of *half-past two* in the morning, after reading "Maud" aloud the evening before from the proof-sheets.|Lilian Whiting|The Brownings, Their Life and Art
@@ -447,6 +449,7 @@
 02:30|It's late now," he added, glancing at the clock, which showed it to be *half-past two* o'clock in the morning.|William Le Queux|The Sign of Silence
 02:30|Only the paraffin lamp on the table with its shade of crimson paper spluttered as it burned low, for it was now about *half-past two* in the morning.|William Le Queux|The Under-Secretary
 02:30|S._ *2.30 A.M.*--I have just got home from the ball at the Carterville Arms, and as I find your letter has not been posted, and I am not very sleepy, I will add a postscript to it before going to sleep.|W. R. H. (William Rutherford Hayes) Trowbridge|The Letters of Her Mother to Elizabeth
+02:30|Ship steamed on this course, in heavy fog and rain, until *2:30 A.M.* when log registered 200.|Ernest Gallaudet Draper|Lectures in Navigation
 02:30|The New York papers of the same date contained this notice: MARRIED.--In this city, yesterday, by telephone, at *half-past two* in the morning, by Rev.|Mark Twain|Alonzo Fitz, and Other Stories
 02:30|The little candle, flaring up at last, showed nothing unusual, unless three girls wide awake at *half-past two* in the morning could be included under that head.|Harriet L. (Harriet Lummis) Smith|Peggy Raymond's Vacation; Or, Friendly Terrace Transplanted
 02:30|The watchman was calling "*half-past two* o'clock," when, cold and weary with his mental struggle, he rose and went to his desk.|Amelia E. Barr|Scottish sketches
@@ -495,6 +498,7 @@
 02:54|'How lovely!' And then she added: 'I believe it is; yes, I believe it is.' Next morning Wimble woke very, very early--*close upon three o'clock*.|Algernon Blackwood|The Promise of Air
 02:55|"Why, it's *five minutes to three*!" she cried.|Herbert George Jenkins|Patricia Brent, Spinster
 02:55|It was *five minutes of three*, and twenty-fire since he went up to Edith's room.|Georgie, Mrs. Sheldon|The Masked Bridal
+02:55|The Colonel looked thoughtful; and though the day was fine for Ireland--that is, no more than a small rain was falling--he remained within doors until *five minutes before three* o'clock.|Stanley John Weyman|The Wild Geese
 02:55|What time is it?" "*Five minutes before three*." "No!|Alice Brown|Rose MacLeod
 02:56|"It is now *four minutes of three*." The automobile came in answer to a signal and the three in silence entered it.|Jacques Futrelle|Elusive Isabel
 02:57|Everything was quiet until *about three o'clock*, when Hatty knocked at my door with a message from the nurse.|George Lewis Prentiss|The Life and Letters of Elizabeth Prentiss
@@ -505,6 +509,7 @@
 03:00|"I suppose you are thankful it was not at *three o'clock* in the morning." He looked at them all in turn questioningly.|William John Hopkins|Concerning Sally
 03:00|"If this goes on, I shall be broken down to-morrow," he thought, but he succeeded somehow or other in dozing, and waking every ten minutes to wait for *three o'clock*.|J.-K. (Joris-Karl) Huysmans|En Route
 03:00|"It seemed very lively," I replied, "for *three o'clock* in the morning." "Oh, hours don't cut any ice in Alaska," said he.|Ella Higginson|Alaska, the Great Country
+03:00|"It signifies nothing to me to what quarter I turn my face." Thus, at Mugby Junction, at past *three o'clock* of a tempestuous morning, the traveller went where the weather drove him.|Charles Dickens|Mugby Junction
 03:00|"My sister," said she, "read till *three o'clock* this morning.|Giacomo Casanova|The Memoirs of Jacques Casanova de Seingalt, 1725-1798. Volume 20: Milan
 03:00|"Stand by me, boys," said he in his blunt way, "and the old 'wagoner' will crack his whip for sure over Tarleton to-morrow." The British commander, eager to strike a sudden blow, put his army in motion at *three o'clock* in the morning.|Albert F. (Albert Franklin) Blaisdell|Hero Stories from American History For Elementary Schools
 03:00|"There," said he, as he closed down his ink-bottle at *three o'clock* in the morning, "that, I suppose, is my last day's work in the house of Brown, Jones, and Robinson.|Anthony Trollope|The Struggles of Brown, Jones, and Robinson By One of the Firm
@@ -531,7 +536,6 @@
 03:00|At *three o'clock* in the morning he reached his home in a half-drunken state.|Sutton E. (Sutton Elbert) Griggs|Unfettered: A Novel
 03:00|At *three o'clock* in the morning of one of these days he wrote to Bourlamaque, at Lake Champlain, noting the dark night, the rain, his men awake and dressed in their tents, everyone alert.|George McKinnon Wrong|The Conquest of New France; A Chronicle of the Colonial Wars
 03:00|At *three o'clock* in the morning the inmates of the house were aroused by the screams of a woman, and on the landlady entering Matilda Clover's room, she found the unfortunate girl lying across the bed in the greatest agony.|C. J. S. (Charles John Samuel) Thompson|Poison Romance and Poison Mysteries
-03:00|At *three o'clock* in the morning the wind was raging.|Jules Verne|Five Weeks in a Balloon Or, Journeys and Discoveries in Africa by Three Englishmen
 03:00|At last, *three o'clock* came, B-- was out of all patience, W-- snoring on the sofa, and I, quite delighted.|Frederick Marryat|Olla Podrida
 03:00|By *three o'clock* the danger was felt to be over, and day broke and revealed the forlorn Susan Jane still riding at anchor.|W. W. (William Wymark) Jacobs|Sea urchins
 03:00|I was sitting in my den, which is at the back of the top of the house, about *three o'clock*, when I was convinced that I heard some sounds downstairs.|Arthur Conan Doyle|The Return of Sherlock Holmes
@@ -602,12 +606,12 @@
 03:30|At *half-past three* a single bird Unto a silent sky Propounded but a single term Of cautious melody.|Emily Dickinson|Poems by Emily Dickinson, Series Two
 03:30|At *half-past three* he finally hung up the receiver; and taking the brougham, rode like another Wellington over the field of his still palpitating Waterloo.|Ernest Bramah|The Secret of the League: The Story of a Social War
 03:30|At *half-past three* o'clock in the morning, he lost one illusion; officers who had been despatched to reconnoitre announced to him that the enemy was not making any movement.|Victor Hugo|Les Miserables
-03:30|At *half-past three* o'clock the funeral car began to move, preceded by a chorister bearing the cross, and by the Abbe Coquereau.|William Makepeace Thackeray|The Second Funeral of Napoleon
 03:30|But on the morning of the 15th--Sunday--at *3.30*, his despatch-boat returned to him with the official intelligence, not only of the enemy's being off Martinique, but of his arrival at Curacao, which occurred shortly after daylight of the 14th.|A. T. (Alfred Thayer) Mahan|Lessons of the war with Spain and other articles
 03:30|He received me very civilly, and insisted that I should remain with him until the steamer sailed, which involved leaving his abode (the cantonment) at about *half-past three* in the morning.|James Bruce, Earl of Elgin|Letters and Journals of James, Eighth Earl of Elgin
 03:30|Holmes drew a note from his pocket and read it aloud:-- "Abbey Grange, Marsham, Kent, "*3.30 a.m.*|Arthur Conan Doyle|The Return of Sherlock Holmes
 03:30|I pitched on the "Habits of the Wild Pigeon." I began on Wednesday, and it took me until *half-past three* of the morning, and after a few hours' sleep I rose to correct it, which was needed, I can assure thee.|John James Audubon|Audubon and His Journals, Volume 1
 03:30|I struck a match every moment, under cover of my macintosh, to see if it were yet *half past three*.|Ben J. (Ben Johannis) Viljoen|My Reminiscences of the Anglo-Boer War
+03:30|It was *half-past three* in the morning, and frosty weather, when the train started from Chicago, with Mark Floyd at the throttle, and various important people--general managers, superintendents, editors, etc.--on the cars behind.|Cleveland Moffett|Careers of Danger and Daring
 03:30|It was *half-past three* in the morning, and the chill, gray dawn was just breaking over the earth.|Willis J. (Willis John) Abbot|The Naval History of the United States. Volume 2
 03:30|It was about *half-past three* when our Lord appeared to Magdalen, and John and Peter entered the garden just as she was leaving it.|Anna Katharina Emmerich|The Dolorous Passion of Our Lord Jesus Christ
 03:30|Moses, unaccustomed to getting up at *half-past three* in the morning, never opened his eyes until the church clock struck five.|L. T. Meade|A World of Girls: The Story of a School
@@ -635,6 +639,7 @@
 03:43|*Between midnight and four o'clock* she got a little sleep, out of which she awoke while a booming, clattering wagon thundered by.|Hamlin Garland|Rose of Dutcher's Coolly
 03:44|*Between midnight and four o'clock* she got a little sleep, out of which she awoke while a booming, clattering wagon thundered by.|Hamlin Garland|Rose of Dutcher's Coolly
 03:45|"At *a quarter to four* o'clock of a midsummer morning, as Mr."|George Meredith|Complete Short Works of George Meredith
+03:45|"CHAPTER IV RUPERT AT RUMPELMEYER'S At *a quarter to four* precisely, in a heavy shower of rain, Madeline sprang out of a taxicab in St."|Ada Leverson|Bird of Paradise
 03:45|"I thought there wasn't another train in that direction until *3.45*," exclaimed Mr.|George Randolph Chester|Get-Rich-Quick Wallingford A Cheerful Account of the Rise and Fall of an American Business Buccaneer
 03:45|"The motor-omnibus, which started from Shipham, five miles away, was due in Glenbury at *a quarter to four*."|Angela Brazil|A harum-scarum schoolgirl
 03:45|At *a quarter before four* the yelling, which had gone on continuously for more than two hours, suddenly died away, the fire slackened, and three rousing cheers went up from the fort.|Richard B. (Richard Biddle) Irwin|History of the Nineteenth Army Corps
@@ -693,7 +698,7 @@
 04:00|As on the previous morning, he heard a noise at *four o'clock*.|Maurice Leblanc|The Crystal Stopper
 04:00|As work is over at *four o'clock*--the hours being from five to eleven in the morning and two to four in the afternoon--the men who work in mill, store or office can play every afternoon.|Isabel Anderson|The Spell of the Hawaiian Islands and the Philippines
 04:00|At *four o'clock* Monday morning Peterson came on duty, followed by Shamhaven and some others.|Edward Stratemeyer|At the Fall of Port Arthur; Or, A Young American in the Japanese Navy
-04:00|At *four o'clock* in the morning I found Miss Eliza Higgins busy about the new cap which was to kill the Thane.|Harriette Wilson|The Memoirs of Harriette Wilson, Volumes One and Two Written by Herself
+04:00|At *four o'clock* next morning, being in the latitude of 54 deg. 30' S., longitude 12 deg. 33'. east, we tacked and stretched to N.E. with a fresh gale at S.W., attended with snow-showers and sleet.|James Cook|A Voyage Towards the South Pole and Round the World Volume 2
 04:00|At *four o'clock* the birds began to feed; and a great many of the smaller kinds came fluttering round the cave, and one or two went in.|Charles Reade|The Cloister and the Hearth
 04:00|Dipper." "Well, captain," said the landlord, "you see it is getting on for *four o'clock*, and we want to lock up.|William, Sir Magnay|The Hunt Ball Mystery
 04:00|In summer, no adult ought to lie in bed after *four o'clock*, and no child, except the mere infant, after five.|William A. (William Andrus) Alcott|The Young Mother: Management of Children in Regard to Health
@@ -752,6 +757,7 @@
 04:30|"The 3d, we sailed at *half past four* in the morning, our course W."|James Bruce|Travels to Discover the Source of the Nile, Volume 1
 04:30|"Upon the 9th of July," says La Billardiere, "towards *half-past four* o'clock, we perceived, about ten miles to the N.W., a rock called Eddystone.|Jules Verne|Celebrated Travels and Travellers, Part 2. The Great Navigators of the Eighteenth Century
 04:30|"Yes, I drove him to Abbotstoke yesterday--never started, except at a fool of a woman with an umbrella, and at the train--and we'll take care not to meet that." "It is only to avoid the viaduct at *half-past four*," said Mrs.|Charlotte M. (Charlotte Mary) Yonge|The Daisy Chain, or Aspirations
+04:30|'*Half-past four* and a dark stormy morning,' cried he, in true watchman style.|William Alexander Caruthers|The Kentuckian in New-York; or, The Adventures of Three Southerns. Volume 1 (of 2)
 04:30|*Half-past four* it must be, for the red cows, sweet-breathed and soft-paced, have passed up the lane half an hour ago, looking gently to right and left with lustrous, nunlike eyes, now and then putting out a large red tongue to lick at the hedgerow.|Mary Cholmondeley|Notwithstanding
 04:30|A young girl came up to tell us that the door would certainly open before *half-past four*, for that was tea-time.|Eric Parker|Highways and Byways in Surrey
 04:30|About *half-past four* in the morning--just as the first faint light of day was seen on the eastern horizon--the camp was again set in commotion by the fourth alarm.|Mayne Reid|Lost Lenore: The Adventures of a Rolling Stone
@@ -767,7 +773,6 @@
 04:30|At *half-past four* in the grey morning light eighty thousand men rushed upon the foe.|H. E. (Henrietta Elizabeth) Marshall|This Country of Ours
 04:30|At *half-past four* o'clock on the morning of December 25th, a slight shock of earthquake was felt in Los Angeles; but it was not until some hours later that the telegraph reported the much greater damage wrought at San Jacinto, Riverside County.|Harris Newmark|Sixty Years in Southern California, 1853-1913 Containing the Reminiscences of Harris Newmark
 04:30|At *half-past four* on Friday we sailed from Portsmouth, and saw the fleet in the highest beauty--amongst them all while they were under sail tacking, &c.; the delay has not been lost time.|Edward Stanley|Before and after Waterloo Letters from Edward Stanley, sometime Bishop of Norwich (1802; 1814; 1816)
-04:30|At *half-past four* the Dessaix made a signal that she had sprung a leak, and that the water gained upon her thirty inches an hour.|John, Sir Ross|Memoirs and Correspondence of Admiral Lord de Saumarez, Vol. I
 04:30|At five o'clock he would take an early morning snack with young Hollis, an engineer's pupil, who had to get up at *half-past four* and make his own coffee, so as to be down at the works by six.|Jerome K. (Jerome Klapka) Jerome|Novel Notes
 04:30|D'Artagnan really suspected nothing, therefore thought he had gained everything, when he awoke in the morning, about *half-past four*.|Alexandre Dumas|The Vicomte de Bragelonne
 04:30|He arose about *half-past four* o'clock, but, as it was still raining heavily, he crept silently through the hallway of the west wing to Ashton's door, hoping to find it unfastened.|Frederic Arnold Kummer|The Green God
@@ -838,6 +843,7 @@
 05:00|"They attacked us three days afterwards at *five o'clock* in the morning.|Forbes Phillips|War and the Weird
 05:00|"Where did you get this?" "About *five o'clock* this morning," replied Private Doran with hesitation and in an apologetic tone, "I was on guard on the western side of the village, near the woods.|Joseph A. (Joseph Alexander) Altsheler|The Border Watch: A Story of the Great Chief's Last Stand
 05:00|*Five o'clock* and a murky morning." The noise of the bell, and the cry which accompanied it, roused me from my first sleep in London, and that with a vengeance; the bell being rung and the words uttered within three feet of my head.|Stanley John Weyman|The Story of Francis Cludde
+05:00|*Five o'clock* in the morning,--the sun has not yet appeared above the hills, but the mist is rising gradually.|Frederick Marryat|Olla Podrida
 05:00|A neighbour told us that the mother often locks them into the room from *five o'clock* in the morning till ten or eleven at night.|Isabella L. (Isabella Lucy) Bird|Notes on Old Edinburgh
 05:00|About *five o'clock* I started off with Sutcliffe to call on Niiro, who had not been seen since the morning.|Ernest Mason Satow|A Diplomat in Japan The inner history of the critical years in the evolution of Japan when the ports were opened and the monarchy restored, recorded by a diplomatist who took an active part in the events of the time, with an account of his personal experiences during that period
 05:00|About *five o'clock* in the morning all sounds had ceased, but the snow was falling still more densely.|Henryk Sienkiewicz|The Deluge: An Historical Novel of Poland, Sweden, and Russia. Vol. 2
@@ -857,7 +863,6 @@
 05:00|At *five o'clock* in the morning the squadron came to anchor in the broad bay before the city of Rotterdam.|Oliver Optic|Dikes and Ditches; Or, Young America in Holland and Belgium
 05:00|At *five o'clock* in the morning we put to sea again, and though the wind was contrary, made shift to reach the town of Sestri di Levante, where we were most graciously received by the publican butcher and his family.|T. (Tobias) Smollett|Travels through France and Italy
 05:00|At *five o'clock* in the morning, she awoke him.|Samuel G. (Samuel Griswold) Goodrich|Curiosities of Human Nature
-05:00|At *five o'clock* in the morning--Dan had a silver watch which had been presented to him by Master Archy--they reached the entrance of Lake Chicot.|Oliver Optic|Watch and Wait; or, The Young Fugitives
 05:00|At *five o'clock* we longed to ring for hot water, but did not dare.|Kate Douglas Smith Wiggin|Penelope's Irish Experiences
 05:00|By *five o'clock* each party was at its post and, for half an hour, they lay in expectancy.|G. A. (George Alfred) Henty|The Young Franc Tireurs, and Their Adventures in the Franco-Prussian War
 05:00|Having reached within ten or twelve miles of Chicago, and being anxious to make that point, we were in motion at a very early hour on the morning of the 29th, and reached the village at *five o'clock* A.|Henry Rowe Schoolcraft|Summary Narrative of an Exploratory Expedition to the Sources of the Mississippi River, in 1820 Resumed and Completed, by the Discovery of its Origin in Itasca Lake, in 1832
@@ -923,7 +928,6 @@
 05:30|*Half-past five* came round, and still they had not attained their wish.|Augusta Huiell Seaman|The Girl Next Door
 05:30|*Half-past five* in the morning, and a young lady, with a dog, looking at him!|Walter Besant|The Golden Butterfly
 05:30|Aaron was to leave the house at *half-past five*; but before he went Susan should be called down.|Anthony Trollope|The Courtship of Susan Bell
-05:30|Accordingly he gave me a guide, with whom we marched till *half-past five*, when we arrived at a great _gunge_ (market place) at the extremity of Dinajpur.|Samuel Charles Hill|Three Frenchmen in Bengal The Commercial Ruin of the French Settlements in 1757
 05:30|And Tora and Dick went off to the new house, Ellen tells me, at *half-past five*, with a lantern, and haven't come back yet!" "Oh, did they?|Anthony Hope|Mrs. Maxon Protests
 05:30|As a general thing he lay in bed as late as he dared to; but on the particular morning which was to terminate his suspense he jumped out of bed at *half-past five* o'clock.|Horatio, Jr. Alger|Sam's Chance, and How He Improved It
 05:30|At *5.30 a.m.* steered north-north-west, over several ridges of sandstone, till we struck our outward track, which we followed with some deviations to the camp, which was reached at 2.0 p.m.|Augustus Charles Gregory|Journals of Australian Explorations
@@ -936,6 +940,7 @@
 05:30|He had wished to say good-bye to him before going to bed, as his boat was leaving so early in the morning--at *half-past five*.|Antonio Fogazzaro|The Patriot (Piccolo Mondo Antico)
 05:30|He is worth the trouble of traveling to see him nearer." "We set out at *half-past five*," said the fisherman gravely.|Alexandre Dumas|Ten Years Later
 05:30|I am considered very hardy in the morning, for I run up, bare-necked, and plunge my head into the half-frozen water, by *half-past five* o'clock.|John Forster|The Life of Charles Dickens, Vol. I-III, Complete
+05:30|I resumed the walk at *half-past five* next morning, and proceeded, under steady rain, through Bourg d'Oysans to Grenoble, arriving at the latter place soon after seven P.|Edward Whymper|Scrambles Amongst the Alps in the Years 1860-69
 05:30|I'm in luck this hot morning, if you will take the invitation to your sister--for *half-past five*." "Th-thanks," Billy began; "b-but am I left out?" "Of course not.|Mary Jane Holmes|Gretchen: A Novel
 05:30|In addition to all this work, trade would be going on every day, which meant 100 or so natives coming and going constantly from *half-past five* in the morning until three or four in the afternoon, when trade would cease for the day.|Mary Henrietta Kingsley|West African studies
 05:30|It was *half-past five* on the morning of the 29th, when, bidding adieu to Lieut.|Henry Rowe Schoolcraft|Personal Memoirs of a Residence of Thirty Years with the Indian Tribes on the American Frontiers
@@ -961,7 +966,9 @@
 05:40|Giraldi looked at his watch, it wanted *twenty minutes to six*.|Friedrich Spielhagen|The Breaking of the Storm, Vol. III.
 05:40|I looked at my watch and found the time to be *5.40 A.M.*|A. Leah (Ann Leah) Underhill|The Missing Link in Modern Spiritualism
 05:40|This repast was eaten under the same conditions as his breakfast, and at *twenty minutes to six* he returned to the saloon and read _The Morning Chronicle_.|Jules Verne|Round the World in Eighty Days
+05:40|While the vessel was beating up to the passage, the wind took a sudden lull, and then veered squally into N. and even N.N.W., driving the brig ashore on the sand at about *twenty minutes before six* o'clock.|Robert Louis Stevenson|The Wrecker
 05:41|"The squadron opened fire at *5:41 A.M.* While advancing to the attack two mines were exploded ahead of the flagship, too far to be effective."|Charles Morris|A New History of the United States
+05:42|"A kind-hearted Suburbanite happened to be passing along on his Way to the *5:42* Train."|George Ade|Fables in Slang
 05:42|Promptly at *5.42*, the scheduled time for its arrival, the train came pelting up the snow-covered metals from Penge, and made its first stop since starting.|Thomas W. Hanshew|Cleek, the Master Detective
 05:43|Every morning here at Bruges, and elsewhere throughout our pilgrimage, the Professor and I sallied forth *between five and six o'clock* to explore as many of the by-ways and quaint out-of-the-way corners as we could before breakfast.|Edward Neville Vose|The Spell of Flanders An Outline of the History, Legends and Art of Belgium's Famous Northern Provinces
 05:44|Every morning here at Bruges, and elsewhere throughout our pilgrimage, the Professor and I sallied forth *between five and six o'clock* to explore as many of the by-ways and quaint out-of-the-way corners as we could before breakfast.|Edward Neville Vose|The Spell of Flanders An Outline of the History, Legends and Art of Belgium's Famous Northern Provinces
@@ -1020,6 +1027,7 @@
 06:00|About *six o'clock* in the morning he roused me.|John L. Stephens|Incidents of Travel in Greece, Turkey, Russia, and Poland, Vol. 2 (of 2)
 06:00|About *six o'clock* on a midsummer morning in 1877, a tall old man awoke, and was out of bed next moment,--but he moved with a certain slow leisureliness, as one who will not be hurried.|May Byron|A Day with Walt Whitman
 06:00|After General Lee left, General Pendleton asked me if General Longstreet was not ordered to attack on the 2d of July at Gettysburg at *six o'clock* in the morning, and did not attack until four o'clock in the evening.|James Longstreet|From Manassas to Appomattox: Memoirs of the Civil War in America
+06:00|After a six hours' march through the rain and the mud, the advance struck our cavalry pickets at *six o'clock*, in the early gray of a winter morning, two miles in front of the Federal camp.|Henry Martyn Cist|The Army of the Cumberland
 06:00|After breakfast my wife set off for town to order carpets and curtains, and did not come home till *six o'clock*, very tired with the fatigues of the day.|Frederick Marryat|Olla Podrida
 06:00|All night they worked on, not till *six o'clock* this morning was any possibility of communication opened.|Charlotte M. (Charlotte Mary) Yonge|Heartsease; Or, The Brother's Wife
 06:00|And in this unpleasing state of uncertainty, at *six o'clock* in the morning, in a pouring rain, we were put on board the vessel which was to transport us to Bordeaux.|Louisa Stuart Costello|Bearn and the Pyrenees
@@ -1029,7 +1037,6 @@
 06:00|At *six o'clock* I looked at their position, with Zebede, Captain Florentin, and Buche, and it seemed to me it was a difficult task before us.|Arthur [Editor] Mee|The World's Greatest Books -- Volume 04 -- Fiction
 06:00|At *six o'clock* he presented himself at The Towers, told his story, and was bidden by Sir Charles to leave the matter until the morning, when it would probably be better to report the whole affair to the superintendent at Lowestoft.|Herbert George Jenkins|Bindle: Some Chapters in the Life of Joseph Bindle
 06:00|At *six o'clock* in the morning a regiment "which had been labored with," would turn; at noon, the insurrection of all Paris; at sunset, revolution.|Victor Hugo|Les Miserables
-06:00|At *six o'clock* in the morning of January the 1st, 1770, being New-year's Day, we tacked and stood to the eastward, the Three Kings bearing N.W. by N.|Robert Kerr|A General History and Collection of Voyages and Travels -- Volume 13
 06:00|At *six o'clock* the ironclad came out from the river and made for the _Minnesota_, which was still aground.|G. A. (George Alfred) Henty|With Lee in Virginia: A Story of the American Civil War
 06:00|Before *six o'clock* he was twenty miles from Sedgemoor.|Thomas Babington Macaulay, Baron Macaulay|The History of England, from the Accession of James II -- Volume 1
 06:00|By *six o'clock* she was heading north again, but: "not above 80 or 100 yards from the breakers.|Arthur Kitson|The Life of Captain James Cook, the Circumnavigator
@@ -1063,6 +1070,7 @@
 06:15|At night I imprisoned her in a small bottle; in the morning I let her out at *6.15*, when she immediately resumed her occupation.|George John Romanes|Animal Intelligence The International Scientific Series, Vol. XLIV.
 06:15|But six o'clock passed, and *quarter-past six*, and still there was no sign of him.|J. Storer (Joseph Storer) Clouston|The Spy in Black
 06:15|He was astonished to see that the hour was *a quarter past six*.|Arnold Bennett|Clayhanger
+06:15|In spite of the rain, they left the window open, and one of them went to listen from time to time; and at *a quarter past six* the baron said he heard a rumbling in the distance.|Guy de Maupassant|Complete Original Short Stories of Guy De Maupassant
 06:15|It was *a quarter-past six*, and he had been asleep just three hours.|Bertram Mitford|Fordham's Feud
 06:15|Started at *6.15 a.m.* and followed the river, which first came from the east, then south-east and south-west till 10.40, when we crossed to the right bank and halted.|Augustus Charles Gregory|Journals of Australian Explorations
 06:15|The artificers landed on the rock this morning at *a quarter-past six*, and remained at work five hours.|Robert Louis Stevenson|The Works of Robert Louis Stevenson - Swanston Edition, Vol. 16
@@ -1090,7 +1098,6 @@
 06:30|"Come at *half-past six*, Julia." "Just Lady Jane, ma'am?|George Barr McCutcheon|The City of Masks
 06:30|"I may as well tell you, girls, that we have to get up at *half-past six*.|L. T. Meade|The School Queens
 06:30|"I'm always up at *half-past six*, but I don't always get out so soon.|Frank Norris|McTeague: A Story of San Francisco
-06:30|"It is now *half-past six*; he ought to be here by seven; I must allow him some margin." Every one was puzzled, but made no comment.|Edward Sylvester Ellis|The Boy Patrol Around the Council Fire
 06:30|"March 2.--At *6.30 a.m.* we got under way and ran down stream at eight miles an hour towards our old wooding-place.|Samuel White, Sir Baker|Ismailia
 06:30|"Rising about *half-past six* next morning and entering my sitting-room, I was amazed to encounter Olga, fully dressed in hat and caracul jacket, standing in the grey dawn, reading a paper which she had taken from my despatch-box!|William Le Queux|The Lady in the Car
 06:30|"We start at daybreak," he said, "so you had better be here by *half-past six*." "Where do you sleep?" Ralph asked.|G. A. (George Alfred) Henty|The Young Franc Tireurs, and Their Adventures in the Franco-Prussian War
@@ -1109,6 +1116,7 @@
 06:30|I, just then, had my lodgings near Hampstead Road; my pupil lived at Knightsbridge; I engaged to be with him every morning at *half-past six*, and the walk, at a brisk pace, took me just about an hour.|George Gissing|The Private Papers of Henry Ryecroft
 06:30|It was *half-past six* when I awoke and went to the window, relieved to find that the sun had scattered my morbid fancies with the darkness; and I speculated, as I dressed, whether the thing called conscience were not, after all, a matter of nerves.|Winston Churchill|A Far Country -- Volume 2
 06:30|It was nearly *half-past six* in the morning when Joe next opened his eyes.|H. Irving (Harrie Irving) Hancock|The Motor Boat Club at Nantucket; or, The Mystery of the Dunstan Heir
+06:30|It was very cold when I left Amirabad the next morning at *6.30*, and hoar-frost lay on the ground.|Isabella L. (Isabella Lucy) Bird|Journeys in Persia and Kurdistan, Volume 2 (of 2) Including a Summer in the Upper Karun Region and a Visit to the Nestorian Rayahs
 06:30|James next invites Ruthven to Falkland (this was asserted by Ruthven's defenders): he arrives at the strangely early hour of *6.30 A.M.*|Andrew Lang|Historical Mysteries
 06:30|Jan got up, had her bath, dressed, and by *half-past six* she was on deck.|L. Allen (Lizzie Allen) Harker|Jan and Her Job
 06:30|Next morning, Thursday, October 13th, they woke to find the tide lapping against the old Roman embankment behind which they lay, for it was a spring tide, and at its highest about *6.30 a.m.*|John William Edward Conybeare|Highways and Byways in Cambridge and Ely
@@ -1165,6 +1173,7 @@
 06:49|"It was *eleven minutes to seven*."|Arnold Bennett|The Matador of the Five Towns and Other Stories
 06:50|"In the harbour of Tongataboo, it is high water on the full and change days, at *fifty minutes past six*."|Robert Kerr|A General History and Collection of Voyages and Travels -- Volume 15
 06:50|At *6.50 a.m.* followed down the creek to the east, and crossed to the left bank to avoid a rocky hill.|Augustus Charles Gregory|Journals of Australian Explorations
+06:50|At *ten minutes to seven* o'clock, through a very heavy rain and a brisk gale, we arrived at the "Grand Hotel du Pavilion," which had just been finished, and was inhabited for the first time.|Alexis Soyer|Soyer's Culinary Campaign: Being Historical Reminiscences of the Late War. With The Plain Art of Cookery for Military and Civil Institutions
 06:50|I sort of fool-mated him over that paragraph, and he told me that the information reached the _Mercury_ at about *ten minutes to seven*.|Fred M. (Fred Merrick) White|The Weight of the Crown
 06:51|He began shuffling the cards with the intention of continuing the game, but Signor Giacomo looked at his watch, and found that it wanted only *nine minutes to seven*, at which hour he was in the habit of winding his clock.|Antonio Fogazzaro|The Patriot (Piccolo Mondo Antico)
 06:52|*Between six and seven o'clock* in the morning, the man who was to be swung made his appearance for a few moments, and then disappeared.|John Scudder|Dr. Scudder's Tales for Little Readers, About the Heathen.
@@ -1206,9 +1215,9 @@
 07:00|At *seven o'clock* on Sunday morning the vessel was heading, under full way, upon huge masses of ice.|Zachariah Atwell Mudge|North-Pole Voyages Embracing Sketches of the Important Facts and Incidents in the Latest American Efforts to Reach the North Pole, from the Second Grinnell Expedition to That of the Polaris
 07:00|At *seven o'clock* on the morning of 17th April, when the 1st Royal West Kents and the 2nd King's Own Scottish Borderers were waiting with fixed bayonets, the mines under the hillock were exploded.|Edward Parrott|The Children's Story of the War Volume 4 (of 10) The Story of the Year 1915
 07:00|At *seven o'clock* that morning, when I came out of the hut, I saw a sight so beautiful that I shall never forget it.|Roald Amundsen|The South Pole; an account of the Norwegian Antarctic expedition in the "Fram," 1910-1912 -- Volume 1
-07:00|At *seven o'clock* the next morning Paul stood before Smith & Thompson's store.|Horatio, Jr. Alger|Paul Prescott's Charge
 07:00|At *seven o'clock* the school opened, and he entered.|Victor Hugo|Les Miserables
 07:00|At break of day, we set forward again, and it was past *seven o'clock* before we reached the ship.|Robert Kerr|A General History and Collection of Voyages and Travels -- Volume 13
+07:00|At daylight the breeze was strong from East-South-East: at *seven o'clock*, having fetched in with the land on the north side, we tacked and stood across to the opposite shore.|Philip Parker King|Narrative of a Survey of the Intertropical and Western Coasts of Australia -- Vol. 1 Performed between the years 1818 and 1822
 07:00|By *seven o'clock* every thing is moved away from camp, save each cadet's accoutrements.|Henry Ossian Flipper|Henry Ossian Flipper, the Colored Cadet at West Point Autobiography of Lieut. Henry Ossian Flipper, U.S.A., First Graduate of Color from the U.S. Military Academy
 07:00|For, Colonel De Craye, I had a bun at *seven o'clock*.|George Meredith|The Egoist: A Comedy in Narrative
 07:00|I had had no rest; yet knew not, till *seven o'clock*, that he was gone.|Samuel Richardson|The History of Sir Charles Grandison, Volume 4 (of 7)
@@ -1230,6 +1239,7 @@
 07:09|"This morning, *between seven and eight o'clock*." "It must have been very sudden?" The accent was plainly interrogative.|Anna Chapin Ray|The Dominant Strain
 07:10|"Have I time to reach the station by *ten minutes past seven*?' 'By fast walking, sir.' 'Mr."|Andrew Lang|The Disentanglers
 07:10|Glancing out of the corner of his eye into a shop, he saw by a clock on the wall that it was *ten minutes past seven*.|Fyodor Dostoyevsky|Crime and Punishment
+07:10|I started about seven on a drizzling morning, and got as far as the barracks, when I saw a clock there which showed *ten minutes after seven*.|Alfred W. (Alfred Wilks) Drayson|The Gentleman Cadet His Career and Adventures at the Royal Military Academy Woolwich
 07:10|Leaving our encampment at *7.10 a.m.*, we steered north 170 degrees east magnetic, along the limits of the low scrubby limestone hills which extend along this part of the coast.|Augustus Charles Gregory|Journals of Australian Explorations
 07:10|Now it would be all right the time was *ten minutes past seven*.|Roald Amundsen|The South Pole; an account of the Norwegian Antarctic expedition in the "Fram," 1910-1912 -- Volume 1
 07:11|"This morning, *between seven and eight o'clock*." "It must have been very sudden?" The accent was plainly interrogative.|Anna Chapin Ray|The Dominant Strain
@@ -1317,6 +1327,7 @@
 07:40|"Please, sir," I said, after awhile, "could you tell me the right time?" "*Twenty minutes to eight*," he answered, looking at his watch.|Jerome K. (Jerome Klapka) Jerome|Paul Kelver
 07:40|At *7.40 a.m.* left the camp, and steered south-east through a succession of miserable scrubs of eucalypti, grevillia, acacia, and jacksonia, with patches of melaleuca.|Augustus Charles Gregory|Journals of Australian Explorations
 07:40|It was *twenty minutes to eight* when the vicinity of the old Flack mansion was reached.|Edward Stratemeyer|The Missing Tin Box; Or, The Stolen Railroad Bonds
+07:40|It was very damp, and in the morning we had, as on the previous day, a thick mist which prevented our starting until it cleared up, at *7.40 a.m.*|Arnold Henry Savage Landor|Across Unknown South America
 07:40|Steering south-west from *7.40 a.m.* till 8.5, the river turned suddenly to the south-east, and, changing our course to 170 degrees, traversed an open brigalow scrub with several shallow channels winding through it in an irregular manner.|Augustus Charles Gregory|Journals of Australian Explorations
 07:40|The best medical advice was obtained, but after a week's illness, on Sunday morning, the 10th, at *twenty minutes to eight*, she sank and died.|Mary Wollstonecraft|The Love Letters of Mary Wollstonecraft to Gilbert Imlay
 07:41|The hall was empty; *nineteen minutes to eight*!|John Galsworthy|The Dark Flower
@@ -1329,6 +1340,7 @@
 07:45|"Jawleyford taking three glasses of port (when she could get it); and it was *a quarter to eight* when they rose from the table."|Robert Smith Surtees|Mr. Sponge's Sporting Tour
 07:45|"Seven o'clock, dear papa; they _may_ be here by nine, you know;" or, "*a quarter to eight*; they will be about half-way if they started by the later train." Between eight and nine, to Sydney's great relief, her father fell asleep again.|Mrs. Molesworth|Not Without Thorns
 07:45|'*A quarter to eight*, sir.' 'Nothing of the kind!' contradicted Jack Raymond in a tone of voice which turned his hearer grey-green once more; 'it came in at--let me see, what is the latest I can give it?--twenty minutes to seven.|Flora Annie Webster Steel|Voices in the Night
+07:45|About *a quarter to eight*, while the first storm was at its height, a carriage and pair dashed into a fashionable West End square and pulled up outside a mansion cast in the stereotyped mold of the early Victorian period.|Louis Tracy|The King of Diamonds: A Tale of Mystery and Adventure
 07:45|And have a messenger-boy here when I come back, and don't forget to order the carriage for *quarter of eight*, sharp." "Yes, Mr.|Mary E. (Mary Ella) Waller|A Daughter of the Rich
 07:45|At *a quarter to eight* Florence, being alone for a minute, set fire to a veil and stuffed it down the register.|Harold MacGrath|The Million Dollar Mystery Novelized from the Scenario of F. Lonergan
 07:45|At *a quarter to eight*, in fact, I found myself trimming my nails, with ten minutes to spare.|Arthur Wing Pinero|The Second Mrs. Tanqueray: A Play in Four Acts
@@ -1384,11 +1396,11 @@
 08:00|"Yesterday morning I was there at *eight o'clock*; I went early purposely, and she was in a more stupidly lethargic state than I had before seen her.|Henry, Mrs. Wood|Johnny Ludlow, Third Series
 08:00|'At *eight o'clock* they arrived at the spot where three graves were dug; here their coffins were deposited.|Charles Kingsley|At Last: A Christmas in the West Indies
 08:00|'Knowles is getting pretty sensible, and his voice is stronger.' "The Deacon moved next day, and when Sunday came I went over in a boat with the Reverend Robert at *eight o'clock* in the morning.|Irving Bacheller|'Charge It': Keeping Up With Harry
-08:00|*Eight o'clock* for breakfast; twelve for dinner; four for supper; and no meals but these; no lunches and no cold snacks.|Herman Melville|White Jacket; Or, The World on a Man-of-War
 08:00|*Eight o'clock* struck; and his servant came in.|Emile Gaboriau|Other People's Money
 08:00|About *eight o'clock* we started from the point of debarkation, marching by the flank.|Ulysses S. (Ulysses Simpson) Grant|Personal Memoirs of U. S. Grant -- Volume 1
 08:00|And thus it was that Johnnie found herself at *eight o'clock* making her way, in the midst of the little group, toward the Georgia line and the old Victory plant, which all good workers in the district shunned if possible.|Grace MacGowan Cooke|The Power and the Glory
 08:00|At *eight o'clock* he starts and works till ten.|Gaston Leroux|The Secret of the Night
+08:00|At *eight o'clock* the fog lay heavily on the waves, and its thick scrolls rose little by little.|Jules Verne|Twenty Thousand Leagues under the Sea
 08:00|At *eight o'clock* the sledge was ready to start.|Jules Verne|Around the World in Eighty Days
 08:00|At *eight o'clock*, the valet attached to the suite knocked at his door and informed him that his bath was ready.|E. Phillips (Edward Phillips) Oppenheim|Havoc
 08:00|But he forgot; and when I opened my eyes, the sun was shining into the room and it was after *eight o'clock*...!|Jean-Baptiste-Antoine-Marcelin, baron de Marbot|The Memoirs of General Baron de Marbot
@@ -1443,6 +1455,7 @@
 08:19|Let me see, if she keeps up that gait, we'll sight Mangareva *between eight and nine o'clock* tomorrow morning.|Jack London|South Sea Tales
 08:20|"_Cherchez la femme_." XII FRIENDS IN SAN ROSARIO The west-bound train stopped at San Rosario on time at *8.20 A.M.*|O. Henry|Roads of Destiny
 08:20|He took several wrong turnings, had twice to be put right by a policeman, began to wish miserably, when it was too late, that he had taken a taxi, and in the end arrived nearly *twenty minutes after eight* at Edward Ambrose's door.|J. C. (John Collis) Snaith|The Sailor
+08:20|Last night, above 12 P.M., commenced raining; 3 A.M., rained steadily; 7 A.M., same weather; *8.20 A.M.*, a line of low storm-cloud, or scud, showing very sharp and white on the dark back-ground all along the southern sky.|T. B. (Thomas Belden) Butler|The Philosophy of the Weather. And a Guide to Its Changes
 08:20|When the clock indicated *twenty minutes past eight*, Andrew Stuart got up, saying, "Gentlemen, in twenty minutes the time agreed upon between Mr.|Jules Verne|Around the World in Eighty Days
 08:21|Let me see, if she keeps up that gait, we'll sight Mangareva *between eight and nine o'clock* tomorrow morning.|Jack London|South Sea Tales
 08:22|Let me see, if she keeps up that gait, we'll sight Mangareva *between eight and nine o'clock* tomorrow morning.|Jack London|South Sea Tales
@@ -1627,6 +1640,7 @@
 09:19|After breakfast, *between nine and ten o'clock*, griping and drawing with crawling in the stomach, which extends into the chest and between the shoulders, causing oppression of the chest with a sense of heat.|Edward Pollock [Editor] Anshutz|New, Old, and Forgotten Remedies: Papers by Many Writers
 09:20|Coming up Trafalgar Road at *twenty minutes past nine* in the bright, astringent morning, Edwin carried by a string a little round parcel which for him contained the inspiring symbol of his new life.|Arnold Bennett|Clayhanger
 09:20|I begin to open my screws of paper at *twenty minutes past nine*.|Jean-Henri Fabre|The Mason-Bees
+09:20|Stopped at *twenty minutes past nine*, the wind was so high, and warmed some coffee.|John James Audubon|Audubon and His Journals, Volume 2
 09:21|After breakfast, *between nine and ten o'clock*, griping and drawing with crawling in the stomach, which extends into the chest and between the shoulders, causing oppression of the chest with a sense of heat.|Edward Pollock [Editor] Anshutz|New, Old, and Forgotten Remedies: Papers by Many Writers
 09:22|"Instead, the clock pointed to only *twenty-two minutes past nine*. "By Jove!" he exclaimed."|Arnold Bennett|The Matador of the Five Towns and Other Stories
 09:23|"He had just come in on the *9:23*--THAT hadn't been him, after all!"|Dana Gatlin|Missy
@@ -1637,14 +1651,15 @@
 09:28|At *twenty-eight minutes after nine*, the javelins of the sheriff's men appeared in the outer hall, ushering in the procession of the judges.|Henry, Mrs. Wood|Mildred Arkell: A Novel. Vol. 3 (of 3)
 09:29|After breakfast, *between nine and ten o'clock*, griping and drawing with crawling in the stomach, which extends into the chest and between the shoulders, causing oppression of the chest with a sense of heat.|Edward Pollock [Editor] Anshutz|New, Old, and Forgotten Remedies: Papers by Many Writers
 09:30|"About *half-past nine* o'clock Wednesday morning the students of the several schools and colleges, together with the alumni, met at old St.|Richard Irby|History of Randolph-Macon College, Virginia The Oldest Incorporated Methodist College in America
-09:30|"At *half past nine* (French reckoning) I come in my carriage to your gate; if my carriage does not please you, let your own be ready.|Francis Bond, Sir Head|The Life and Adventures of Bruce, the African Traveller
 09:30|"He--he--he'll be hanged *half-past nine*." "Don't talk about hanging and spoil my breakfast, you unkind, vulgar man you," cries the Princess.|Percy Keese [Editor] Fitzhugh|Every Girl's Library, Volume 8 of 10 A Collection of Appropriate and Instructive Reading for Girls of All Ages from the Best Authors of All Time
 09:30|"I should wish to." "Just look it up, then." "There is a train at *half-past nine*," said I, glancing over my Bradshaw.|Arthur Conan Doyle|The Adventures of Sherlock Holmes
 09:30|"James sent this message from the West Strand at *9.30 a.m.*|Louis Tracy|Cynthia's Chauffeur
+09:30|"Nov. 23, *9:30 A.M.*; another bee released in cage, caught in web and enswathed approximately thirty turns by Argiope.|Vernon L. (Vernon Lyman) Kellogg|Insect Stories
 09:30|"So the fellow said, my dear; but he shall smart for it, and the laws of the land shall do Frank justice." At *half-past nine* the next morning Fred Barkley arrived at Captain Bayley's.|G. A. (George Alfred) Henty|Captain Bayley's Heir: A Tale of the Gold Fields of California
 09:30|About *9.30 A.M.* the Nawab's brother came on board, and soon afterwards we proceeded to land.|Annie Brassey|The Last Voyage: To India and Australia, in the 'Sunbeam'
 09:30|About *half-past nine* on Tuesday morning last, I set out with an old acquaintance to call upon a certain member of the Relief Committee, in George's Ward.|Edwin Waugh|Home-Life of the Lancashire Factory Folk during the Cotton Famine
 09:30|And what time is it?" "It is *half-past nine*, _madame_," Aline replied, "and your breakfast is here.|E. Phillips (Edward Phillips) Oppenheim|The Hillman
+09:30|As usual in England, the picnic brought on heavy rain, which lasted from *9.30 a.m.* till 2 p.m., to the great benefit of the garden.|Samuel White, Sir Baker|Ismailia
 09:30|At *9.30 A.M.* we commenced the ascent of the couloir leading from the nameless glacier to a point in the ridge, just to the east of Mont Bans.|Edward Whymper|Scrambles Amongst the Alps in the Years 1860-69
 09:30|At *9.30*, when I came down to breakfast, there was no fire anywhere, and my coffee, made in the coachhouse, tasted of soot.|E. Oe. (Edith Oenone) Somerville|Some Experiences of an Irish R.M.
 09:30|At *half past nine* the Mars, being one of the look-out ships, made the signal that the Enemy were coming out of port.|William Beatty|Authentic Narrative of the Death of Lord Nelson
@@ -1675,7 +1690,6 @@
 09:30|We breakfast about *half-past nine* or ten, dine about four, and go to bed about eleven.|Charles Dickens|The Letters of Charles Dickens. Vol. 1, 1833-1856
 09:30|We was paid off this morning at *half-past nine*, and picked up a few hasty friends ashore for a Feet-Sham-Peter.|Arthur Quiller-Couch|Merry-Garden and Other Stories
 09:30|When I want to consult you, I will pass along the square at *half-past nine*, just as you are coming out after breakfast.|Honore de Balzac|The Two Brothers
-09:30|Zelie, the _femme de menage_, brought us our breakfast to our room, coffee and bread and eggs, and by *half-past nine* we were down-stairs, booted and spurred, to find the motor at the door, a simple lunch being packed up, and gas-helmets got ready!|Humphry, Mrs. Ward|England's effort
 09:31|After breakfast, *between nine and ten o'clock*, griping and drawing with crawling in the stomach, which extends into the chest and between the shoulders, causing oppression of the chest with a sense of heat.|Edward Pollock [Editor] Anshutz|New, Old, and Forgotten Remedies: Papers by Many Writers
 09:32|From Toulon a train starts for Hyeres at *9.32 A.M.*, and arrives at 10.13 A.M.|C. B. (Charles Bertram) Black|The South of France--East Half
 09:33|After breakfast, *between nine and ten o'clock*, griping and drawing with crawling in the stomach, which extends into the chest and between the shoulders, causing oppression of the chest with a sense of heat.|Edward Pollock [Editor] Anshutz|New, Old, and Forgotten Remedies: Papers by Many Writers
@@ -1748,6 +1762,7 @@
 10:00|At *ten o'clock* on the next day the two stood at the door of Lawyer Mead's office in Ann Street.|O. Henry|The Voice of the City: Further Stories of the Four Million
 10:00|At *ten o'clock* the sun was so hot that they halted, and let the oxen loose till sun-down.|Charles Reade|A Simpleton
 10:00|At *ten o'clock* we were summoned to attend the pre-funeral requiem.|Leo, graf Tolstoy|Childhood
+10:00|At *ten o'clock*, the wind had increased to a hurricane; the sky was so entirely obscured with black clouds, and the rain poured in such torrents, that objects could not be discerned from the wheel to the ship's head.|John R. (John Roy) Musick|A Century Too Soon: The Age of Tyranny
 10:00|At *ten o'clock*, with your letters, came off Dr.|Horatio Nelson, Viscount Nelson|The Letters of Lord Nelson to Lady Hamilton, Vol. I. With A Supplement Of Interesting Letters By Distinguished Characters
 10:00|Before *ten o'clock* every vessel northward bound was thoroughly examined, and the law against harboring fugitives was read to all on board.|Harriet A. (Harriet Ann) Jacobs|Incidents in the Life of a Slave Girl, Written by Herself
 10:00|But of course--if you wish it." "*Ten o'clock* to-morrow," said Melrose, accompanying him to the door.|Humphry, Mrs. Ward|The Mating of Lydia
@@ -1772,7 +1787,6 @@
 10:00|The Cab at the Corner A *ten o'clock*, a page bearing a card upon a silver tray knocked upon the door, and stared with wide-eyed astonishment at the disordered gentleman who opened it.|Booth Tarkington|His Own People
 10:00|The beginning of the examination had been fixed at *ten o'clock*, but it was fully eleven before it commenced.|Max Simon Nordau|How Women Love (Soul Analysis)
 10:00|The mail arrived at the school at *ten o'clock*, and in this mail there was a check sent by Miss Davidson for exactly four hundred dollars.|Booker T. Washington|Up from Slavery: An Autobiography
-10:00|The next day opened bright and clear, and before *ten o'clock*, the thermometer had risen to seventy degrees.|Frank R. Stockton|The Late Mrs. Null
 10:01|"I have looked in vain for anything that's worth the trouble of stooping for." *Towards ten o'clock* the little band descended the last declivities of Mount Franklin.|Jules Verne|The Mysterious Island
 10:02|At *two minutes past ten*, an exhausted, nerve-racked Billy was trying to cry on the shoulders of both Uncle William and Bertram at once.|Eleanor H. (Eleanor Hodgman) Porter|Miss Billy -- Married
 10:03|"I have looked in vain for anything that's worth the trouble of stooping for." *Towards ten o'clock* the little band descended the last declivities of Mount Franklin.|Jules Verne|The Mysterious Island
@@ -1819,13 +1833,13 @@
 10:22|*Between ten and eleven o'clock* we met for prayer, and I found that 10s. had come in for a toy chest of drawers, which in this our great need had been sent for sale.|George Muller|A Narrative of some of the Lord's Dealings with George Muller. Part 2
 10:23|Even if the proofs do not reach you till Monday morning, you could send a clerk from Fenchurch Street Station at *10.23 A.M.* for Galleons Station, and he would find me embarking on board the _Ludgate Hill_, Island Berth, Royal Albert Dock.|Robert Louis Stevenson|The Works of Robert Louis Stevenson - Swanston Edition, Vol. 24
 10:24|*Between ten and eleven o'clock* we met for prayer, and I found that 10s. had come in for a toy chest of drawers, which in this our great need had been sent for sale.|George Muller|A Narrative of some of the Lord's Dealings with George Muller. Part 2
+10:25|"*Twenty-five minutes past ten*," he said, in his hard, impassive manner--a manner which imparted the idea that he was utterly destitute of sympathy for the whole human race.|Henry, Mrs. Wood|Trevlyn Hold: A Novel
 10:25|"Arrived at the station of Abou Kookah at *10.25 A.M.*, having travelled badly against the strong south wind, and our bottom dirty.|Samuel White, Sir Baker|Ismailia
 10:26|*Between ten and eleven o'clock* we met for prayer, and I found that 10s. had come in for a toy chest of drawers, which in this our great need had been sent for sale.|George Muller|A Narrative of some of the Lord's Dealings with George Muller. Part 2
 10:27|*Between ten and eleven o'clock* we met for prayer, and I found that 10s. had come in for a toy chest of drawers, which in this our great need had been sent for sale.|George Muller|A Narrative of some of the Lord's Dealings with George Muller. Part 2
 10:28|*Between ten and eleven o'clock* we met for prayer, and I found that 10s. had come in for a toy chest of drawers, which in this our great need had been sent for sale.|George Muller|A Narrative of some of the Lord's Dealings with George Muller. Part 2
 10:29|*Between ten and eleven o'clock* we met for prayer, and I found that 10s. had come in for a toy chest of drawers, which in this our great need had been sent for sale.|George Muller|A Narrative of some of the Lord's Dealings with George Muller. Part 2
 10:30|"*Half past ten*!" exclaimed Ted, "who'd have thought it!" He spoke joyously, for his pulses were bounding with the vitality due to the exercise of mind and body.|Flora Annie Webster Steel|A Sovereign Remedy
-10:30|"*Half-past ten*," said he, without looking at his watch.|B. K. (Blackwood Ketcham) Benson|Who goes there?
 10:30|"In the space of two hours, from *half-past ten* to half-past twelve in the morning," wrote one of the officers who commanded a much-exposed section, Second-Lieutenant T.|Charles Le Goffic|Dixmude: The epic of the French marines (October 17-November 10, 1914)
 10:30|"Not I." "It is *half-past ten* now." "Yes, and I have no doubt that is her ring." "It may turn out to be of more interest than you think.|Arthur Conan Doyle|The Adventures of Sherlock Holmes
 10:30|"The valise was deposited at exactly *10:30* A."|William MacLeod Raine|Crooked Trails and Straight
@@ -1848,6 +1862,7 @@
 10:30|It was about *half-past ten* o'clock when he arose from his knees, and, bathed in a cold sweat, directed his trembling, weak footsteps towards his three Apostles.|Anna Katharina Emmerich|The Dolorous Passion of Our Lord Jesus Christ
 10:30|It was nearly *half-past ten* before I had received my message, but a taxicab took me round in good time for my appointment.|Arthur Conan Doyle|The Lost World
 10:30|Lobjoit to get breakfast quick, because it was absurd to expect anybody to go in directly after, and the water wouldn't be good later than *half-past ten*.|William De Morgan|Somehow Good
+10:30|Moreover, the sunlight did not keep its promise: it went out altogether at *half-past ten*; the ridge became bitterly and dangerously cold, and soon after midday the wind rose.|A. E. W. (Alfred Edward Woodley) Mason|The Four Corners of the World
 10:30|My entrance into Remyo, the future scene of my experiences, at *half-past ten* that morning was striking, though hardly dignified.|Beth Ellis|An English Girl's First Impressions of Burmah
 10:30|My men went after game in the morning and we did not make an early start, in fact not until *10.30 a.m.*|Arnold Henry Savage Landor|Across Unknown South America
 10:30|RANDOLPH moved to amend, by inserting *half-past ten* o'clock.|L. E. (Lucius Eugene) Chittenden|A Report of the Debates and Proceedings in the Secret Sessions of the Conference Convention For Proposing Amendments to the Constitution of the United States, Held at Washington, D.C., in February, A.D. 1861
@@ -1918,10 +1933,10 @@
 10:59|General McPherson, when arranging his troops *about 11.00 A.M.*, and passing from one column to another, incautiously rode upon an ambuscade without apprehension, at some distance ahead of his staff and orderlies, and was shot dead.|William T. (William Tecumseh) Sherman|Memoirs of General William T. Sherman -- Volume 2
 11:00|"Couldn't you let me come to you at *eleven o'clock* again, Ma'am? do, Grandmother!" Mrs.|Susan Warner|The Wide, Wide World
 11:00|"Do you remember giving a ticket this morning, by the *eleven o'clock* down-train, to a lady traveling alone?" The station-master pondered.|Wilkie Collins|The Dead Secret: A Novel
-11:00|"I deposited it at *eleven o'clock* yesterday morning.|Montague Glass|Potash & Perlmutter: Their Copartnership Ventures and Adventures
 11:00|"It is a good five-and-thirty miles to the district town, as you know, but I get up early, and arrive at *eleven o'clock*, the hour stated in the official notice.|Donald Mackenzie Wallace|Russia
 11:00|"This is a nice predicament; and I have an important engagement at *eleven o'clock*." "It is too bad," sympathized Goddard.|Natalie Sumner Lincoln|The Lost Despatch
 11:00|*Eleven o'clock* struck--could it be that the wedding was then in progress?|Thomas Hardy|The Return of the Native
+11:00|A warm drizzle, which had set in early in the morning, developed by *eleven o'clock* into a steady downpour, accompanied by sullen grumblings of very distant thunder.|Frank Norris|The pit
 11:00|About *eleven o'clock* every one went out to the course.|Rolf Boldrewood|Robbery under Arms A Story of Life and Adventure in the Bush and in the Australian Goldfields
 11:00|About *eleven o'clock*, we saw two Dutch ships lying off Anger Point, and I sent Mr Hicks on board of one of them to enquire news of our country, from which we had been absent so long.|Robert Kerr|A General History and Collection of Voyages and Travels -- Volume 13
 11:00|And it was settled that we should all be there by *eleven o'clock*.|Jane Austen|Pride and Prejudice
@@ -1991,7 +2006,9 @@
 11:19|"Where were you *between eleven and twelve o'clock*, on Wednesday night?" "I refuse to say." "I think I must insist upon an answer, Mr.|Carolyn Wells|A Chain of Evidence
 11:20|"It's the biggest mass-migration I've ever seen, but will it be big enough to do the trick? *11:20*: The foremost columns must have reached the neighboring apperception centers to the right and left of mine by now."|Heinrich Hauser|The Brain
 11:20|A few minutes later and she was seen to be making for the beach on North Keeling Island, where she grounded at *11.20 a.m.*|Edward Parrott|The Childrens' Story of the War, Volume 3 (of 10) From the First Battle of Ypres to the End of the Year 1914
+11:20|At *11.20 A.M.* got under weigh with a rattling breeze, but scarcely had we been half an hour under sail when crack went the great yard of the "Clumsy" once more.|Samuel White, Sir Baker|The Albert N'Yanza, Great Basin of the Nile, And Explorations of the Nile Sources
 11:20|At *twenty minutes past eleven* the Bradys, who had held the table far beyond the limit by tipping their waiter, began to think it time to pull out.|Francis Worcester Doughty|The Bradys' Chinese Clew; Or, The Secret Dens of Pell Street
+11:20|At 7 a.m., we came to an anchor off Walnut Point, and took on board more contrabands, and at 10 a.m. we proceeded to Plymouth, where we arrived at *11:20 a.m.*|John M. (John Mullin) Batten|Reminiscences of Two Years in the United States Navy
 11:21|"Where were you *between eleven and twelve o'clock*, on Wednesday night?" "I refuse to say." "I think I must insist upon an answer, Mr.|Carolyn Wells|A Chain of Evidence
 11:22|What o'clock do you make it?" "*Twenty-two minutes past eleven*," replied the valet, as he consulted an enormous silver watch.|Jules Verne|Round the World in Eighty Days
 11:23|"Where were you *between eleven and twelve o'clock*, on Wednesday night?" "I refuse to say." "I think I must insist upon an answer, Mr.|Carolyn Wells|A Chain of Evidence
@@ -2017,7 +2034,6 @@
 11:30|About *half-past eleven* I shall go to bed as usual.|Pierre Souvestre|The Exploits of Juve Being the Second of the Series of the "Fantomas" Detective Tales
 11:30|About eleven o'clock in the morning they perceived Amiens, and at *half past eleven* they were at the door of the cursed inn.|Alexandre Dumas|The three musketeers
 11:30|After having heard Mass in the chapel of the Chateau of the Tuileries, the King mounted his horse at *half-past eleven*, and, accompanied by the Dauphin, the Duke of Orleans, and the Duke of Bourbon, proceeded to the Champ-de-Mars.|Imbert de Saint-Amand|The Duchess of Berry and the Court of Charles X
-11:30|And unless you look sharp about it you won't have time to sit down at all." "Why not?" "The Park closes at twelve." "Closes?" "At twelve o'clock, and it's *half-past eleven* now." The boy's heart sank into his wet boots.|E. W. (Ernest William) Hornung|The Camera Fiend
 11:30|And, after all, she did not wait for twelve o'clock, for just about *half-past eleven*, Miss Grizzel's voice was heard calling to her to put on her hat and cloak quickly, and come out to walk up and down the terrace with her.|Mrs. Molesworth|The Cuckoo Clock
 11:30|As we furthermore came on some good ice later in the day, our progress was quite unexpectedly good, and when we stopped at *half-past eleven* yesterday morning, I should think we had gone 10 miles during our day's march.|Fridtjof Nansen|Farthest North, Vol. II Being the Record of a Voyage of Exploration of the Ship 'Fram' 1893-1896
 11:30|At *11.30 a.m.* there were no signs of pain on pinching the ear.|Albert C. (Albert Cornelius) Crawford|Barium: A Cause of the Loco-Weed Disease
@@ -2027,6 +2043,7 @@
 11:30|George to the Cressy about *half past eleven*, A.M.|John, Sir Ross|Memoirs and Correspondence of Admiral Lord de Saumarez. Vol II
 11:30|He noticed with some regret that it was *half-past eleven* as he came up Piccadilly and admired, as he never failed to admire, that urbane aspect of nature's charm presented by the Green Park.|Henry Woodd Nevinson|Essays in Rebellion
 11:30|He told her of the difficulty which had arisen about getting money, asked her to meet him at the bank in the morning at *11.30*; hoped that afterwards they might lunch together, pointing out that he never had lunched with her yet.|Richard Marsh|A Master of Deception
+11:30|Here we lay until *half past eleven* on the morning of the 23d, the gale blowing terrifically, and the boat going higher and higher on the ground with every wave.|B. F. (Bernard F.) Blakeslee|History of the Sixteenth Connecticut Volunteers
 11:30|It is now *half-past eleven* o'clock in the forenoon.|Irvin S. (Irvin Shrewsbury) Cobb|Paths of Glory: Impressions of War Written at and Near the Front
 11:30|It was now about *half-past eleven* in the morning.|Frank R. Stockton|Eleven Possible Cases
 11:30|It was now about *half-past eleven*, and my friend said, "We have another workroom for young women in the schoolroom of St Catherine's Church.|Edwin Waugh|Home-Life of the Lancashire Factory Folk during the Cotton Famine
@@ -2071,6 +2088,7 @@
 11:45|At *a quarter to twelve* children and idlers began to gather against the railings of Havill's house.|Thomas Hardy|A Laodicean : A Story of To-day
 11:45|At *a quarter to twelve* to-day but two hundred and fifteen miles of cable remained to be paid out of the fore tank.|Henry M. (Henry Martyn) Field|The Story of the Atlantic Telegraph
 11:45|Blank, who was waiting for him on the graveled drive outside, grew savage as he pulled out his watch and saw it wanted only *a quarter of twelve*.|May Agnes Fleming|A Changed Heart: A Novel
+11:45|Eh, Sandy?" "At *a quarter to twelve*, sir." "The wind is fair." "It is a hurricane," replied the other, almost shuddering.|Charles Lever|The Knight Of Gwynne, Vol. 1 (of 2)
 11:45|FRIDAY, Passed the Morning in Meditation upon Sir Timothy, who was with me *a Quarter before Twelve*.|Joseph Addison|The Spectator, Volume 2.
 11:45|He glanced at the clock.--A *quarter to twelve*!|W. B. (William Babington) Maxwell|Mrs. Thompson: A Novel
 11:45|I will meet you in the library at *a quarter to twelve*.|L. T. Meade|The School Queens
@@ -2283,7 +2301,7 @@
 13:00|This showed that the guests were of the good old stamp, and divided their day equally, for it was but just *one o'clock*.|Washington Irving|The Sketch-Book of Geoffrey Crayon
 13:00|Until *one o'clock* these young men of West Point would be busy in the section rooms, as on other week days.|H. Irving (Harrie Irving) Hancock|Dick Prescott's Second Year at West Point Or, Finding the Glory of the Soldier's Life
 13:00|We entered Naples at *one o'clock*, drove thro' the _strada di Toledo_ and from thence to the _largo di Medina_ where we put up at the inn called the _Aquila nera_.|William Edward Frye|After Waterloo: Reminiscences of European Travel 1815-1819
-13:00|Well, good-bye, old man, if you must be off." At *one o'clock* Vuyning had luncheon with Miss Allison by previous arrangement.|O. Henry|The Voice of the City: Further Stories of the Four Million
+13:00|We set our sail and sped merrily on, but the tempest pressed us sorely, compelling us to take in our sail and scud under bare poles until *one o'clock*, when we double-reefed and set the sail.|Nathaniel H. (Nathaniel Holmes) Bishop|Voyage of the Paper Canoe A Geographical Journey of 2500 Miles, from Quebec to the Gulf of Mexico, During the Years 1874-5
 13:01|*About one o'clock* a messenger came into camp reporting that the men under Mavrouki had traced a herd to its lying-down place.|Stewart Edward White|The Land of Footprints
 13:02|*About one o'clock* a messenger came into camp reporting that the men under Mavrouki had traced a herd to its lying-down place.|Stewart Edward White|The Land of Footprints
 13:03|"It is not above *three minutes after one* by the true time, and I will uphold Mr.|Walter Scott|St. Ronan's Well
@@ -2342,6 +2360,7 @@
 13:30|The following day we melted away the ice in the rudder-well by steam, and at *1.30 P.M.*|Fridtjof Nansen|Farthest North, Vol. II Being the Record of a Voyage of Exploration of the Ship 'Fram' 1893-1896
 13:30|The lawyer had not yet returned from lunch, but the clerk said he would positively be in at *half-past one*, so Billy took the proffered chair, and waited.|Homer Greene|Burnham Breaker
 13:30|The next morning the march was resumed at day-break, and Fairfax Court House was reached about *half past one* in the afternoon.|J. Albert (John Albert) Monroe|The Rhode Island Artillery at the First Battle of Bull Run
+13:30|The wind veered while we were at dinner, and began to blow squally from the mountain summit; and by *half-past one*, all that world of sea-fogs was utterly routed and flying here and there into the south in little rags of cloud.|Robert Louis Stevenson|The Works of Robert Louis Stevenson - Swanston Edition, Vol. 02
 13:30|Towards *half-past one*, the colonists embarked in the boat to visit the wreck.|Jules Verne|The Mysterious Island
 13:30|We reached the foot of the rocky ledge or ridge, where the real difficulties and dangers of the ascent commenced, at *1.30 P.M.*, four and a half hours after leaving the crater.|Edmond S. (Edmond Stephen) [Editor] Meany|Mount Rainier, a Record of Exploration
 13:30|We'd have dinner this first summer at about *half past one* and then perhaps we'd go for a walk.|Frederick Orin Bartlett|One way out
@@ -2349,7 +2368,9 @@
 13:32|*Between twelve and two o'clock* everybody went home to dinner, and the cabs which stood in front of the wooden Post Office, and dogs which slept on the pavement beneath the verandahs, held possession of the streets.|Alfred A. (Alfred Augustus) Grace|The Tale of Timber Town
 13:33|*Between twelve and two o'clock* everybody went home to dinner, and the cabs which stood in front of the wooden Post Office, and dogs which slept on the pavement beneath the verandahs, held possession of the streets.|Alfred A. (Alfred Augustus) Grace|The Tale of Timber Town
 13:34|*Between twelve and two o'clock* everybody went home to dinner, and the cabs which stood in front of the wooden Post Office, and dogs which slept on the pavement beneath the verandahs, held possession of the streets.|Alfred A. (Alfred Augustus) Grace|The Tale of Timber Town
+13:35|At *1.35 p.m.* reached Sturt's Creek and halted at our camp of the 2nd March; there was a strong hot wind from the east during the day. 12th March.|Augustus Charles Gregory|Journals of Australian Explorations
 13:35|At *1.35 p.m.* the animal was much duller and could be turned on his back with ease.|Albert C. (Albert Cornelius) Crawford|Barium: A Cause of the Loco-Weed Disease
+13:35|It was *1:35 P.M.* when No. 1, the Pacific Express, pulled into thrifty Helena, capital of Montana, a commercial metropolis metamorphosed from a rude mining camp of twenty-five years ago.|Charles E. (Charles Edward) Bolton|The Harris-Ingram Experiment
 13:36|*Between twelve and two o'clock* everybody went home to dinner, and the cabs which stood in front of the wooden Post Office, and dogs which slept on the pavement beneath the verandahs, held possession of the streets.|Alfred A. (Alfred Augustus) Grace|The Tale of Timber Town
 13:37|*Between twelve and two o'clock* everybody went home to dinner, and the cabs which stood in front of the wooden Post Office, and dogs which slept on the pavement beneath the verandahs, held possession of the streets.|Alfred A. (Alfred Augustus) Grace|The Tale of Timber Town
 13:38|*Between twelve and two o'clock* everybody went home to dinner, and the cabs which stood in front of the wooden Post Office, and dogs which slept on the pavement beneath the verandahs, held possession of the streets.|Alfred A. (Alfred Augustus) Grace|The Tale of Timber Town
@@ -2378,6 +2399,7 @@
 13:59|*About two o'clock* General Carr overtook me, and asked how far I supposed it was to water.|Buffalo Bill|The Life of Hon. William F. Cody, Known as Buffalo Bill, the Famous Hunter, Scout and Guide An Autobiography
 14:00|"About *two o'clock* our attendant, an officer named Thoerner, under the principal chamberlain who is, I believe, Count Borsch, called to say our carriages were ready.|Samuel Finley Breese Morse|Samuel F. B. Morse, His Letters and Journals In Two Volumes, Volume II
 14:00|"Do you want to leave a message for him?" "Well," Leon hesitated, "the fact is--we had an appointment with him for *two o'clock* over here, and he ain't showed up yet." "Appointment with Louis!" Abe said.|Montague Glass|Potash & Perlmutter: Their Copartnership Ventures and Adventures
+14:00|"I should have thought you knew that the conveyances are as much at your disposal as any one else's." At *two o'clock* that afternoon the carriage stood at the door, and she drove off in pouring rain.|Hermann Sudermann|The Undying Past
 14:00|"I told--I told my partner I'd be back at *two o'clock*, and I guess he'll think I'm a poor business man if he catches me behind time.|Booth Tarkington|The Turmoil: A Novel
 14:00|"It was after *two o'clock* when you went out," said Imogen.|Mary Eleanor Wilkins Freeman|The Copy-Cat, and Other Stories
 14:00|"Or, better, meet me at Fourteenth and Broadway at *two o'clock*.|Jack London|Martin Eden
@@ -2414,7 +2436,6 @@
 14:00|I walked in the streets of Brussels, and I walked in my own room from *two o'clock* till six; never once in that space of time did I sit down.|Charlotte Bronte|The Professor
 14:00|Is there anything I can do before *two o'clock*?|Wilkie Collins|No Name
 14:00|It was *two o'clock* before the work was finished, and there was then a rest for half an hour.|G. A. (George Alfred) Henty|At the Point of the Bayonet: A Tale of the Mahratta War
-14:00|It was fixed for *two o'clock*, so as not to interfere with the races.|Rolf Boldrewood|Robbery under Arms A Story of Life and Adventure in the Bush and in the Australian Goldfields
 14:00|We went _via_ Catlett's Station, which place we reached at *two o'clock* P.|Willard W. Glazier|Three Years in the Federal Cavalry
 14:01|*About two o'clock* General Carr overtook me, and asked how far I supposed it was to water.|Buffalo Bill|The Life of Hon. William F. Cody, Known as Buffalo Bill, the Famous Hunter, Scout and Guide An Autobiography
 14:02|*About two o'clock* General Carr overtook me, and asked how far I supposed it was to water.|Buffalo Bill|The Life of Hon. William F. Cody, Known as Buffalo Bill, the Famous Hunter, Scout and Guide An Autobiography
@@ -2432,6 +2453,7 @@
 14:14|We had walked well and stoutly,--the sort of half-rest which we enjoyed the day before giving fresh vigour to our limbs,--so that *between two and three o'clock* we ventured to calculate that Liebenau could not be far distant.|G. R. (George Robert) Gleig|Germany, Bohemia, and Hungary, Visited in 1837. Vol. II
 14:15|"She was walking back to school at *a quarter past two* that afternoon, when just by the windmill she met Morland himself on a motor bicycle."|Angela Brazil|The Head Girl at the Gables
 14:15|At *2.15 P.M.* on August 3rd, a violent shock occurred that caused further damage at Forio, and even at places so far from the epicentre as Fiaiano, Barano, and Fontana, and increased the displacements of the landslips on Epomeo.|Charles Davison|A Study of Recent Earthquakes
+14:15|At about *a quarter after two* the storm began in the parish of Hartley, moving slowly from north to south; and from thence it came over Norton-farm, and so to Grange-farm, both in this parish.|Gilbert White|The Natural History of Selborne
 14:15|The express was due to leave Paris for Marseilles at *2.15 p.m.*|Guy Boothby|The Red Rat's Daughter
 14:16|At *2.16 p.m.* the breathing became rapid and the animal duller.|Albert C. (Albert Cornelius) Crawford|Barium: A Cause of the Loco-Weed Disease
 14:17|We had walked well and stoutly,--the sort of half-rest which we enjoyed the day before giving fresh vigour to our limbs,--so that *between two and three o'clock* we ventured to calculate that Liebenau could not be far distant.|G. R. (George Robert) Gleig|Germany, Bohemia, and Hungary, Visited in 1837. Vol. II
@@ -2456,6 +2478,7 @@
 14:30|An hour later, towards *half-past two* o'clock, the poor, innocent German came to himself.|Honore de Balzac|Cousin Pons
 14:30|At *2.30 P.M.* both the men were discovered dead.|Alexander Wynter Blyth|Poisons, Their Effects and Detection A Manual for the Use of Analytical Chemists and Experts
 14:30|At *half-past two* Frank entered, accompanied by Mr.|Horatio, Jr. Alger|Frank's Campaign; Or, The Farm and the Camp
+14:30|At *half-past two* P.M. strong and heavy squalls of wind and rain from the N.W. with a heavy sea; observed the St.|John, Sir Ross|Memoirs and Correspondence of Admiral Lord de Saumarez. Vol II
 14:30|At *half-past two* in the afternoon, when he was in the choir to perform the ceremony of washing the feet of twelve priests, he began to put on his pontifical robes, and at the same time gave orders that the musicians should sing.|Emma Helen [Editor] Blair|The Philippine Islands, 1493-1898 -- Volume 27 of 55 1636-37 Explorations by Early Navigators, Descriptions of the Islands and Their Peoples, Their History and Records of the Catholic Missions, as Related in Contemporaneous Books and Manuscripts, Showing the Political, Economic, Commercial and Religious Conditions of Those Islands from Their Earliest Relations with European Nations to the Close of the Nineteenth Century
 14:30|At *half-past two* she started out, Carmen giving her explicit directions, which she could not mistake, because, after passing through the bamboos, the way was straight as far as that stretch of disused pasture land of which mention had been made.|C. N. (Charles Norris) Williamson|The Port of Adventure
 14:30|At daylight, the next morning, we made the famous peak, some forty miles distant, and at *half-past two* P.|Raphael Semmes|Memoirs of Service Afloat, During the War Between the States
@@ -2529,6 +2552,7 @@
 15:00|A number of people had heroically gathered in the field but by *three o'clock* Henchard discerned that his project was doomed to end in failure.|Thomas Hardy|The Mayor of Casterbridge
 15:00|About *three o'clock* he and his men emerged from a tangle of trees and bushes, and saw the Norridgewock cabins before them, no longer enclosed with a stockade, but open and unprotected.|Francis Parkman|France and England in North America, Part VII, Vol 1: A Half-Century of Conflict
 15:00|About *three o'clock* we passed in front of Boim, a village on the opposite (western) coast.|Henry Walter Bates|The Naturalist on the River Amazons
+15:00|About *three o'clock*, while the sun was pouring down his burning rays, and not a breeze was stirring, I broke down; my strength failed me; I was seized with a violent aching of the head, attended with extreme dizziness, and trembling in every limb.|Frederick Douglass|My Bondage and My Freedom
 15:00|Allowing that we can show you were in the house at *three o'clock* (the exact hour at which the attack was made), who are our witnesses?|Honore de Balzac|An Historical Mystery (The Gondreville Mystery)
 15:00|Any persons who appear to possess information may be brought to my office at *three o'clock*.|John T. (John Thomas) McIntyre|Ashton-Kirk, Investigator
 15:00|At *three o'clock* I had the mules harnessed to one of the wagons, and drove the ladies several miles into the forest; they were delighted with the excursion.|Oliver Optic|Down South; or, Yacht Adventure in Florida
@@ -2558,7 +2582,6 @@
 15:00|It was *three o'clock* on the sixth day of the stay at Nice, when Colonel Harris sitting on the porch of the hotel and using a marine glass, discovered to the southwest a tiny craft rapidly approaching Nice.|Charles E. (Charles Edward) Bolton|The Harris-Ingram Experiment
 15:00|It was *three o'clock*, and the very liveliest time in the streets.|Leo, graf Tolstoy|Anna Karenina
 15:00|It was about *three o'clock*, a particularly quiet and drowsy part of a late June or early July day in a northern mountain valley.|James Oliver Curwood|The grizzly king
-15:00|It was long past luncheon-time--it was *three o'clock* before they had done.|Wilkie Collins|The Moonstone
 15:00|The balance arrived at destination at about *three o'clock* P.|I. (Isaac) Hermann|Memoirs of a Veteran Who Served as a Private in the 60's in the War Between the States Personal Incidents, Experiences and Observations
 15:01|"How much do you want?" "Five hundred dollars." "And you want it in gold?" "Yes." He procured the gold, ordered some lunch to be brought, and *about three o'clock* I started for the Erie Railway station.|Caleb Huse|The Supplies for the Confederate Army, how they were obtained in Europe and how paid for.
 15:02|"How much do you want?" "Five hundred dollars." "And you want it in gold?" "Yes." He procured the gold, ordered some lunch to be brought, and *about three o'clock* I started for the Erie Railway station.|Caleb Huse|The Supplies for the Confederate Army, how they were obtained in Europe and how paid for.
@@ -2579,6 +2602,7 @@
 15:15|"It appears that the young fellow did call on Prince Semionicz at *a quarter past three* on Wednesday, December 10th, with a bag full of jewels, amounting in value to some L16,000.|Emmuska Orczy, Baroness Orczy|The Old Man in the Corner
 15:15|However, at *a quarter past three* in the afternoon his clerical work was over; the clouds had dispersed, and he once more resumed his observations.|Robert S. (Robert Stawell) Ball|The Story of the Heavens
 15:15|It is *a quarter-past three* now, and I must be back by four o'clock.|Honore de Balzac|The Magic Skin
+15:15|We left at *3.15*, and arrived at 7 p.m., pitched our tents, in the dark and the rain, and had supper at nine.|M. A. (Mabel Annie) Stobart|The Flaming Sword in Serbia and Elsewhere
 15:16|*Between three and four o'clock* a magazine blew up near the point where the curtain joined the Malakoff, and the division at once ran back to the French advanced trenches.|Rossiter [Editor] Johnson|The Great Events by Famous Historians, Volume 17
 15:17|*Between three and four o'clock* a magazine blew up near the point where the curtain joined the Malakoff, and the division at once ran back to the French advanced trenches.|Rossiter [Editor] Johnson|The Great Events by Famous Historians, Volume 17
 15:18|*Between three and four o'clock* a magazine blew up near the point where the curtain joined the Malakoff, and the division at once ran back to the French advanced trenches.|Rossiter [Editor] Johnson|The Great Events by Famous Historians, Volume 17
@@ -2600,6 +2624,7 @@
 15:30|Although active preparations were commenced at once for the march to Metammeh, the column was not ready to proceed till *3.30 p.m.* on the 18th.|Charles Royle|The Egyptian campaigns, 1882 to 1885
 15:30|And here is Arthur, begging to have dinner at *half-past three* instead of four, because he foresees "a wiry evening" in store for him.|Charles Dickens|The Letters of Charles Dickens. Vol. 2, 1857-1870
 15:30|And they never had stirred from their places, Right under the maple-tree-- This old, old, old, old lady, And the boy with the lame little knee-- This dear, dear, dear old lady, And the boy who was *half past three*.|Horace Elisha [Editor] Scudder|Verse and Prose for Beginners in Reading Selected from English and American Literature
+15:30|At *3.30 P.M.* we passed Pauk-a-thau-kis-cow River, and the wind having freshened and shifted round to the S.E. we had run upwards of forty miles before 10 o'clock.|John Rae|Narrative of an Expedition to the Shores of the Arctic Sea in 1846 and 1847
 15:30|At *3.30 p.m.*, when abreast of Nukunono, we altered course and stood in towards the land, and when about three miles off observed an outrigger canoe with three men in it, paddling towards us.|R. W. (Richard William) Coppinger|Cruise of the "Alert"
 15:30|At *half-past three* Podgers was waiting for me, and opened the front door as I came up the steps, thus saving me the necessity of ringing.|Robert Barr|The Triumphs of Eugene Valmont
 15:30|At *half-past three* o'clock on a Sunday afternoon, just as the congregation were expecting to see Abbate Ventura enter the church, the Pope himself made his appearance.|neas MacDonell Dawson|Pius IX. And His Time
@@ -2672,6 +2697,7 @@
 16:00|About *four o'clock* three persons came to the Orphan-Houses, and put into the box at the Boys'-Orphan-House 7s., into the box at the Infant-Orphan-House 6s., and into the box at the Girls'-Orphan-House 7s.|George Muller|A Narrative of some of the Lord's Dealings with George Muller. Part 2
 16:00|About *four o'clock*, as I was passing through the big hall of the hotel, I heard a voice behind me utter a greeting in Italian, and turning in surprise, found Olinto, dressed in his best suit of black, standing hat in hand.|William Le Queux|The Czar's Spy: The Mystery of a Silent Love
 16:00|After a couple of games or so he said-- 'Look here, it's nearly *four o'clock*.|William Black|The Beautiful Wretch; The Pupil of Aurelius; and The Four Macnicols
+16:00|All the way to Russian Peter's we were extravagantly happy, but when we turned back--it must have been about *four o'clock*--the east wind grew stronger and began to howl; the sun lost its heartening power and the sky became grey and sombre.|Willa Cather|My Antonia
 16:00|All these events took place near the Cross, at a little before *four o'clock*, during the time that Joseph of Arimathea and Nicodemus were gathering together the articles necessary for the burial of Jesus.|Anna Katharina Emmerich|The Dolorous Passion of Our Lord Jesus Christ
 16:00|And just as *four o'clock* was striking, the second attack declared itself.|Emile Zola|Doctor Pascal
 16:00|As *four o'clock* approached, he walked down to the home farm.|John Galsworthy|The Freelands
@@ -2696,7 +2722,6 @@
 16:00|I go; and towards three or *four o'clock* Look for the news that the Guildhall affords.|William Shakespeare|The Complete Works of William Shakespeare
 16:00|I reckon it can't be much mor' 'n *four o'clock*." "Four o'clock!" shouted Harry, jumping up in such a hurry that he nearly tripped himself in Uncle Oscar's trousers, which were much too long for him.|Frank R. Stockton|What Might Have Been Expected
 16:00|I will promise you to go out of your cabinet at this moment exactly as I was when I entered it at *four o'clock*.' 'You cannot do that,' said the Emperor, smiling.|Arthur Conan Doyle|The Exploits of Brigadier Gerard
-16:00|In this way it happened that one day near *four o'clock*, when Mr.|George Eliot|Middlemarch
 16:00|Richmond Court House was reached for our bivouac to-night; but we left early in the morning of the fourth, and by good marching arrived at Port Conway at *four o'clock* P.|Willard W. Glazier|Three Years in the Federal Cavalry
 16:01|*Between four and five o'clock* this afternoon were sent nine plum cakes, which a sister had ordered to be baked as a treat for the orphans.|George Muller|The Life of Trust: Being a Narrative of the Lord's Dealings With George Muller
 16:02|*Between four and five o'clock* this afternoon were sent nine plum cakes, which a sister had ordered to be baked as a treat for the orphans.|George Muller|The Life of Trust: Being a Narrative of the Lord's Dealings With George Muller
@@ -2765,10 +2790,10 @@
 16:30|One goes at *half past four*." At half past four the couple, made man and wife, were on the train speeding toward the little home in the woods.|Mary Eleanor Wilkins Freeman|The Copy-Cat, and Other Stories
 16:30|Preen--about *half-past four*, or so, in the afternoon." "Is the delay of much consequence, sir?" inquired Oliver, as he and his father turned out of the shop.|Henry, Mrs. Wood|Johnny Ludlow, Sixth Series
 16:30|Reached the Institution by *4.30 P.M.*, when, throwing myself on the bed for necessary rest, the desired rhymes for Anagnos's birthday flashed upon me, 'all of a sudden,' and instead of napping, I called for pen and ink and wrote them.|Laura Elizabeth Howe Richards|Julia Ward Howe, 1819-1910
-16:30|Sherer, then a regular morning visit from Lady Honeywood in her way home from Eastwell; then Sir Brook and Edward set off; then we dined (five in number) at *half-past four*; then we had coffee; and at six Miss Clewes, Fanny, and I drove away.|Jane Austen|The Letters of Jane Austen Selected from the compilation of her great nephew, Edward, Lord Bradbourne
 16:30|The detective looked at his watch and saw that it was almost *half-past four*.|Auguste Groner|The Case of the Lamp That Went Out
 16:30|The general retirement of the whole force began about *4.30 p.m.*, and the camp was reached at 6.15.|Charles Royle|The Egyptian campaigns, 1882 to 1885
 16:30|Then, till *half-past four*, we can do anything we like out-of-doors.|Elizabeth Weston Timlow|Cricket at the Seashore
+16:30|They did not get home till *half-past four*, and were caught in the heavy shower of rain which fell in the afternoon.|Elizabeth Cleghorn Gaskell|The Life of Charlotte Bronte -- Volume 1
 16:30|We had now rested our allotted period, so we wished our companions good luck, and resuming our march arrived in Liebenau about *half-past four* o'clock.|G. R. (George Robert) Gleig|Germany, Bohemia, and Hungary, Visited in 1837. Vol. II
 16:30|We made the Plum Point lighthouse, at *half-past four* P.|Raphael Semmes|Memoirs of Service Afloat, During the War Between the States
 16:31|*Between four and five o'clock* this afternoon were sent nine plum cakes, which a sister had ordered to be baked as a treat for the orphans.|George Muller|The Life of Trust: Being a Narrative of the Lord's Dealings With George Muller
@@ -2901,6 +2926,7 @@
 17:30|I will call you at *half-past five*." That night I did not close my eyes.|G. A. (George Alfred) Henty|A Search For A Secret: A Novel. Vol. 2
 17:30|III I returned at about *half-past five*, bright and eager, with vague anticipations.|Arnold Bennett|Sacred and Profane Love: A Novel in Three Episodes
 17:30|In winter, for instance, if the Ave Maria bell rang at *half-past five* of our modern time, the noon of the following day fell at 'half-past eighteen o'clock' by the mediaeval clocks.|F. Marion (Francis Marion) Crawford|Ave Roma Immortalis, Vol. 1 Studies from the Chronicles of Rome
+17:30|It was *half-past five* in the dark, stormy afternoon when the electric buzzer warned Tekla of visitors.|James Huneker|Melomaniacs
 17:30|It was at this time about four o'clock in the afternoon, and therefore, as the hour for tea at the cottage was *half-past five*, it was naturally understood that Mrs.|Anthony Trollope|Rachel Ray
 17:30|It was just *half-past five* when he rang the bell at the entrance gate to the Thorne property.|Auguste Groner|The Case of the Lamp That Went Out
 17:30|Last thing you said to me was, 'Have supper ready at *half-past five*!' I had it ready.|Joseph Crosby Lincoln|Mary-'Gusta
@@ -2916,7 +2942,6 @@
 17:30|We are going to have dinner at *half past five*." "Then won't it be in season," asked Rollo, "if I am at home by half past five?" "In season for what?" asked his father.|Jacob Abbott|Rollo in Geneva
 17:30|We have our breakfast at seven o'clock, lunch at twelve, and dinner between *half past five* and six.|Hazard Stevens|The Life of Isaac Ingalls Stevens, Volume 2 (of 2)
 17:30|Well, in talking, and in thinking, and in walking, and in looking, that first afternoon passed, and at *half-past five* o'clock we went to dinner.|William Clark Russell|A Marriage at Sea
-17:30|With this view I went one morning to his house in Borgo Pinti, having already informed myself that the hour when he could receive me was between *half-past five* and six o'clock in the afternoon.|Giovanni Dupre|Thoughts on Art and Autobiographical Memoirs of Giovanni Dupre
 17:31|Dear Friend, Beethoven is no more; he departed this life, in a most painful struggle and with dreadful sufferings, on the 26th instant, *between five and six o'clock* P.M., after having been insensible for the last twenty-four hours.|Anton Schindler|Life of Beethoven Including his correspondence with his friends, numerous characteristic traits, and remarks on his musical works
 17:32|His first idea appears to have been to land an armed force for the protection of the Europeans, for at *5.32 p.m.* the _Helicon_ made the general signal to the fleet, "Prepare to land armed boats." This order, however, was annulled five minutes later.|Charles Royle|The Egyptian campaigns, 1882 to 1885
 17:33|Dear Friend, Beethoven is no more; he departed this life, in a most painful struggle and with dreadful sufferings, on the 26th instant, *between five and six o'clock* P.M., after having been insensible for the last twenty-four hours.|Anton Schindler|Life of Beethoven Including his correspondence with his friends, numerous characteristic traits, and remarks on his musical works
@@ -2935,6 +2960,7 @@
 17:45|At *a quarter to six* o'clock, Monsieur de Gondy, having finished his business, returned to the archiepiscopal palace.|Alexandre Dumas|Twenty years after
 17:45|I got to get right back to my store." By *a quarter to six* that afternoon the atmosphere of Birsky & Zapp's office had been sufficiently cleared to permit a relatively calm discussion of Eschenbach's perfidy.|Montague Glass|The Competitive Nephew
 17:45|I sent the letter to the Duke to ask him if I should send it. _July 7._ At *quarter to six* a messenger arrived from the Duke, to whom I sent yesterday my letter to Lord W. asking if I should send it?|Edward Law, Earl of Ellenborough|A Political Diary, 1828-1830, Volume II
+17:45|It was but *a quarter before six*, but the shadow of the night had entered to deepen the shadow of the storm, and it was already as dark as midnight.|William Clark Russell|My Danish Sweetheart: A Novel. Volume 1 of 3
 17:45|The Russians are pouring a perfect storm of shot and shell into the mouth of the river where our ships are lying, but the town has so far been spared. *5.45 P.M.*|George Chetwynd Griffith|The Angel of the Revolution: A Tale of the Coming Terror
 17:45|The attack was timed to commence at six in the evening, and at *a quarter to six* two 18-pounder guns in the Canadian trenches opened fire on the German position.|Edward Parrott|The Children's Story of the War Volume 4 (of 10) The Story of the Year 1915
 17:46|Dear Friend, Beethoven is no more; he departed this life, in a most painful struggle and with dreadful sufferings, on the 26th instant, *between five and six o'clock* P.M., after having been insensible for the last twenty-four hours.|Anton Schindler|Life of Beethoven Including his correspondence with his friends, numerous characteristic traits, and remarks on his musical works
@@ -2956,7 +2982,6 @@
 18:00|"Any time you wish in the evening--say *six o'clock*," he said.|Harold Bindloss|Lorimer of the Northwest
 18:00|"As far as you can go, John," she told the man, "but you must get back at *six o'clock*.|E. Phillips (Edward Phillips) Oppenheim|The Cinema Murder
 18:00|"Because they locked us out at *six o'clock* in the evening, and would not let us in." "Why was that?" "They say that at dawn of day someone in the fortress is to be executed." "Who is it?" said the youth, visibly affected.|Mor Jokai|The Slaves of the Padishah
-18:00|"He could not say; most likely at *six o'clock*, his dinner hour." I promised to call on my way toward Avoca, about half an hour before that time, that I might not interfere with Mr.|William Howitt|Homes and Haunts of the Most Eminent British Poets, Vol. 1 (of 2)
 18:00|"I think that this typewritten letter is from you, in which you made an appointment with me for *six o'clock*?" "Yes, sir.|Arthur Conan Doyle|The Adventures of Sherlock Holmes
 18:00|"Let me help you to unpack." Priscilla could never recall afterwards how they spent the golden hours till *six o'clock*.|Ethel M. (Ethel May) Dell|The Swindler and Other Stories
 18:00|"You must go this moment," she said, "it is *six o'clock* now; and please call at the green-grocer's on your way back, and get a pound of bananas and some Tangerine oranges.|L. T. Meade|A Young Mutineer
@@ -2989,6 +3014,7 @@
 18:00|The weather was dull and damp, and even by *six o'clock*, darkness had begun to set in.|Fyodor Dostoyevsky|Poor Folk
 18:00|Towards *six o'clock* his gondola took him back, with another fine appetite, to meet some travelling acquaintances with whom he had engaged to dine at the table d'hote.|Wilkie Collins|The Haunted Hotel: A Mystery of Modern Venice
 18:00|We entered TUPPER'S LAKE towards *six o'clock*, and saw our white tents pitched upon the left bank, some half a mile above the outlet, where a little stream, cold almost as icewater, comes down from a spring a short way back in the forest.|S. H. (Samuel H.) Hammond|Wild Northern Scenes; Or, Sporting Adventures with the Rifle and the Rod
+18:00|We had a stiff breeze then, and at *six o'clock* I ran the Marian into the river.|Oliver Optic|Desk and Debit; or, The Catastrophes of a Clerk
 18:00|We ought to be grateful to them, as to the cook who gets up at midnight and sets the pudding a-boiling, which is to feast us at *six o'clock*.|William Makepeace Thackeray|Some Roundabout Papers
 18:00|We've just got time for the *six o'clock* boat.|William Dean Howells|The Rise of Silas Lapham
 18:00|When we got back we found that our man had come and had left word that he could be found at the Cafe du Phare at *six o'clock*.|Hugh Gibson|A Journal From Our Legation in Belgium
@@ -3053,6 +3079,7 @@
 18:30|Movement of the bowels at an unusual time,^2 (*6:30 P.M.*, had moved the morning of same day).|Edward Pollock [Editor] Anshutz|New, Old, and Forgotten Remedies: Papers by Many Writers
 18:30|Not more than a breath of wind moved aloft--none at all below--but it proved sufficient to send the yacht along, and about *half-past six* in the evening they slipped in to an anchor at Cobourg, fired a gun, and had dinner.|Stinson Jarvis|Geoffrey Hampstead: A Novel
 18:30|One evening, about *half past six* o'clock, a toil-worn man turned his steps to a splendid! mansion in Mountjoy Square; his appearance was drooping, fatigued, and feeble.|William Carleton|Phelim Otoole's Courtship and Other Stories Traits And Stories Of The Irish Peasantry, The Works of William Carleton, Volume Three
+18:30|Scutts remonstrated, but in vain, and at *half-past six* the invalid, with his cap over his eyes and a large scarf tied round the lower part of his face, listened for a moment at his front door and then disappeared in the fog.|W. W. (William Wymark) Jacobs|Night watches [complete]
 18:30|She could go home any time afterwards; for their own tea-hour was not till *half past six*.|Sophie May|Dotty Dimple at Play
 18:30|She took her station at the head of the stairs and stayed there until *half past six* in the evening; and neither Signora Beatrice nor Signor Guido were able to make her return home.|Charles W. (Charles Wesley) [Editor] Hodell|The Old Yellow Book: Source of Robert Browning's The Ring and the Book
 18:30|Supper was a new sensation, after having been without anything except a _glass_ of clabber (no saucers) and a piece of bread since *half-past six*.|Sarah Morgan Dawson|A Confederate Girl's Diary
@@ -3061,7 +3088,6 @@
 18:30|The events in connection with the fatal illness of Dickens are then touchingly related as follows:-- "I was sent for on Wednesday, the eighth of June, 1870, to attend at Gad's Hill Place, and arrived about *6.30 p.m.*|William R. (William Richard) Hughes|A Week's Tramp in Dickens-Land Together with Personal Reminiscences of the 'Inimitable Boz' Therein Collected
 18:30|Then a ray of light struck the German, and he said: "Oh, I see, you came at *half past six*, Belgian time!|Hugh Gibson|A Journal From Our Legation in Belgium
 18:30|There were four horses to this land-ark, of course; but we did not perform the journey until after *half-past six* o'clock that night. . . .|John Forster|The Life of Charles Dickens, Vol. I-III, Complete
-18:30|This exploit being over, he dragged us all, including Hewett, about the town till *half-past six*, not to the improvement of the tempers of that gallant officer or of his boat's crew, who thus lost their dinner.|Ernest Mason Satow|A Diplomat in Japan The inner history of the critical years in the evolution of Japan when the ports were opened and the monarchy restored, recorded by a diplomatist who took an active part in the events of the time, with an account of his personal experiences during that period
 18:30|We began eating at *6.30 p.m.*; we stopped shortly after 10 p.m.|George A. Birmingham|A Padre in France
 18:30|You must fix the time." "Say between *half-past six* and a quarter to seven.|Arnold Bennett|Hilda Lessways
 18:31|At *about half-past six* her son came home, tired now, rather pale, and somewhat wretched.|D. H. (David Herbert) Lawrence|Sons and Lovers
@@ -3118,11 +3144,11 @@
 19:00|About *seven o'clock* the same evening, Bishop and May presented themselves at Guy's Hospital, carrying something in a sack, and asked the porter if a "subject" was wanted.|William [Editor] Andrews|The Doctor in History, Literature, Folk-Lore, Etc.
 19:00|About *seven o'clock*, one cold evening, Willy was in the bar-room, sitting on Caleb's knee, and holding a private conversation with him, while he nibbled a cookie.|Sophie May|Little Grandfather
 19:00|After dinner was removed, and the dessert and wine placed on the table, the servants withdrew, and were forbidden to enter till *seven o'clock*, when coffee was served.|John Mackay [Compiler] Wilson|Wilson's Tales of the Borders and of Scotland, Volume 08
-19:00|All his avocations, however, did not prevent the coming round of that *seven o'clock* on Wednesday evening, which he had appointed as the hour of meeting with the woman on whom his hopes of saving his client almost altogether rested.|John Mackay [Compiler] Wilson|Wilson's Tales of the Borders and of Scotland, Volume 21
 19:00|At *seven o'clock* a carriage drove up, from which alighted an elderly gentleman, with white hair and mustache, and bowed somewhat with years.|Charles W. (Charles Waddell) Chesnutt|The Marrow of Tradition
 19:00|At *seven o'clock* we sat down to an extravagant bill of fare as compared with our usual simple diet.|Robert Falcon Scott|Scott's Last Expedition, Volume I Being the journals of Captain R. F. Scott
 19:00|At *seven o'clock*--how well I remember the hour!--I was sitting again in my window, waiting for the return of the Vandykes, and watching the face which had now reappeared at its usual place in the study.|Anna Katharine Green|The Hermit Of ------ Street 1898
 19:00|By *seven o'clock* we were called away to bathe and go to bed.|Jack London|The People of the Abyss
+19:00|By this time it was about *seven o'clock*, getting dark, and also beginning to snow.|William George Laurence, Sir Beynon|With Kelly to Chitral
 19:00|Exactly at *seven o'clock*, Harry, having the fear of the threatened fine before his eyes, was at the Blue Posts; and there, standing in the middle of the room, he saw Count Pateroff.|Anthony Trollope|The Claverings
 19:00|He usually reached Woodside at about *seven o'clock*, where he found them waiting tea for him.|Emma Dorothy Eliza Nevitte Southworth|Ishmael; Or, In the Depths
 19:00|I guessed that it must be *seven o'clock*, and I knew that my grandmother would be uneasy about me, and that presently my grandfather would have to be told, and the whole household would be anxious.|Katharine Tynan|The Story of Bawn
@@ -3151,6 +3177,7 @@
 19:13|The train arrived at Kizil Arvat, two hundred and forty-two versts from the Caspian, at *thirteen minutes past seven* in the evening instead of seven o'clock.|Jules Verne|The Adventures of a Special Correspondent Among the Various Races and Countries of Central Asia Being the Exploits and Experiences of Claudius Bombarnac of "The Twentieth Century"
 19:14|Don't you think so, V.?" The night before, *between seven and eight o'clock*, Pedraglio had happened to be on the road between Loveno and Menaggio.|Antonio Fogazzaro|The Patriot (Piccolo Mondo Antico)
 19:15|At *a quarter-past seven* the Swiggarts drove into Paradise, and I wish you could have seen the Grand Secretary's face.|Horace Annesley Vachell|Bunch Grass: A Chronicle of Life on a Cattle Ranch
+19:15|Atkinson's continued absence passed unnoticed until dinner was nearly over at *7.15*, although I had heard that the wind had dropped at the beginning of dinner and that it remained very thick all round, with light snow falling.|Robert Falcon Scott|Scott's Last Expedition, Volume I Being the journals of Captain R. F. Scott
 19:15|Five days later Doctor Norbury came and took formal possession of it, and it was transferred to the Museum forthwith." "When did you next hear of the testator?" "On the twenty-third of November following at *a quarter past seven* in the evening.|R. Austin (Richard Austin) Freeman|The Vanishing Man: A Detective Romance
 19:15|I hope to call this evening at *7.15 p.m.*, when I trust to find you at home.|J. A. (John Alexander) [Editor] Hammerton|Mr. Punch's Book of Love: Being the Humours of Courtship and Matrimony
 19:15|So, at *a quarter past seven* that night, he stationed himself once more in the miserable alley, to wait for Rose.|Henry Kitchell Webster|The Real Adventure
@@ -3177,6 +3204,7 @@
 19:30|"You will know," replied Betty, "when you go into the room to-night at *half-past seven* and find me there or not there.|L. T. Meade|Betty Vivian: A Story of Haddo Court School
 19:30|*Half past seven*, unless they give us a terribly long-winded afternoon, and then Mrs Jones will be in a rage, and woe betide us!" "No, no," said Mr Wood, shaking his head, and going on.|Frances Mary Peard|Thorpe Regis
 19:30|A despatch from Rosecrans, leaving him at *7.30 P.M.* yesterday, says: "Rebel rumors that head of Ewell's column reached Dalton yesterday." I send this for what it is worth.|Abraham Lincoln|The Papers and Writings of Abraham Lincoln -- Volume 6: 1862-1863
+19:30|About *half past seven* on the appointed evening we crossed the lower bridge, with some American students, in a pouring rain, and started up the road which borders the Neunheim side of the river.|Mark Twain|A Tramp Abroad
 19:30|About *half-past seven* I was called to dinner.|Leo, graf Tolstoy|A Russian Proprietor, and Other Stories
 19:30|After tea we went for a walk along the streets, and then, at *half-past seven*, I took him to another fashionable hotel, where I had ordered dinner.|Joseph Hocking|The Pomp of Yesterday
 19:30|Along about *7:30*, a Sub-Committee wearing Satin Badges was sent downstairs to round up some recent Alumni who were trying to get a Running Start, and at 7:45 a second Detachment was sent out to find the Rescue Party.|George Ade|Knocking the Neighbors
@@ -3203,7 +3231,6 @@
 19:30|Lord William Somerset remained firm as a rock, and took Worcester out of the house at *half-past seven* in the evening; which happened to be just in time to secure his place in the Oxford mail.|Harriette Wilson|The Memoirs of Harriette Wilson, Volumes One and Two Written by Herself
 19:30|Michu, very hungry, made such haste that by *half-past seven* o'clock the work was done; and he started for home at a quick pace to stop Gothard, who had been sent for another sack of plaster which he thought he might want.|Honore de Balzac|An Historical Mystery (The Gondreville Mystery)
 19:30|Next Thursday night, *half-past seven*, at the Sceptre," he said, and walked off.|Charles Turley|Godfrey Marten, Undergraduate
-19:30|On the 3d of October the same comet was seen at *half-past seven*, P.M., at Rome, by Father de Vico, and information of the fact was immediately communicated by him to Professor Schumacher at Altona.|Maria Mitchell|Maria Mitchell: Life, Letters, and Journals
 19:30|On the return journey to-day it was due at Norderney at *7.30 p.m.*|Erskine Childers|The Riddle of the Sands
 19:30|Then followed a talk like our old talks at Blois, while the same Loire we used to admire called forth our praises, and at *half-past seven* we entered the noble long avenue of lime-trees, acacias, sycamores, and larches which leads to Chantepleurs.|Honore de Balzac|Letters of Two Brides
 19:30|Thence it would not get despatched till *7.30 P.M.*; and proceeding to Newmarket, would arrive there at 4.0 A.M. on Wednesday.|James Wilson Hyde|The Royal Mail: Its Curiosities and Romance
@@ -3225,8 +3252,10 @@
 19:45|"John," said I, "what time do we dine?" "*A quarter before eight*, I believe," answered John, quite good-humouredly, and as if nothing had happened to estrange us.|G. J. (George John) Whyte-Melville|Kate Coventry: An Autobiography
 19:45|Amongst the personal property taken from you when you entered these precincts may have been found a memorandum of an engagement to dine at my house to-night at *a quarter to eight* o'clock.|Arthur Wing Pinero|The Magistrate: A Farce in Three Acts
 19:45|At *7.45 P.M.* we made Point Baragu Light, and at 10 P.M. sail was shortened, for by this time we were rushing along before a strong, fair wind, and did not quite know how far it might carry us by daylight.|Annie Brassey|The Last Voyage: To India and Australia, in the 'Sunbeam'
+19:45|At *7.45 P.M.* we were overtaken by a heavy squall of wind, accompanied by thunder, lightning, and rain, which obliged us to close all ports and skylights.|Annie Brassey|The Last Voyage: To India and Australia, in the 'Sunbeam'
 19:45|Guest had not forgotten me, and pleased also--shrewdly expecting that we might kill our fish over again--to regard his invitation to dinner at *a quarter to eight* as a royal command.|Stanley John Weyman|The King's Stratagem, and Other Stories
 19:45|Lady Betty came into the library at *a quarter to eight*, and found her husband still at his desk, a pile of papers before him waiting for his signature.|Julian [Editor] Hawthorne|The Lock and Key Library: the Most Interesting Stories of All Nations: French Novels
+19:45|On May 6, at *7.45 p.m.*, there was a cloud-like mark extending straight across the disc, and a club-shaped mark nearly in the centre, with its small end nearly touching the straight cloud.|Roger Langdon|The Life of Roger Langdon, Told by himself. With additions by his daughter Ellen.
 19:45|The dinner was nominally at *a quarter to eight*, and I don't mind telling you now that I counted on twice as long as I had.|E. W. (Ernest William) Hornung|A Thief in the Night: A Book of Raffles' Adventures
 19:45|We were bidden at *a quarter to eight* for eight o'clock, so after all I had to hurry off alone.|E. W. (Ernest William) Hornung|A Thief in the Night: A Book of Raffles' Adventures
 19:46|Don't you think so, V.?" The night before, *between seven and eight o'clock*, Pedraglio had happened to be on the road between Loveno and Menaggio.|Antonio Fogazzaro|The Patriot (Piccolo Mondo Antico)
@@ -3249,7 +3278,6 @@
 20:00|"'The nursery lisps out in all they utter; Besides, they always smell of bread-and-butter.' "How admirably Byron has described girls in their teens!" "*Eight o'clock*.--I have just got back from Armadale's house.|Wilkie Collins|Armadale
 20:00|"After having finished baptizing the infants and adults of my mission, I left on Tuesday, the 30th of November, late in the afternoon, for Tilokaikt's camp, where I arrived between seven and *eight o'clock* in the evening.|W. H. (William Henry) Gray|A History of Oregon, 1792-1849 Drawn From Personal Observation and Authentic Information
 20:00|"At *eight o'clock*; we had dinner early." "You went away all together?" "Yes, sir." "You did not leave each other?" "Not a minute." "And you returned all together?" The servants exchanged a significant look.|Emile Gaboriau|The Mystery of Orcival
-20:00|"Depend upon it, sir," says Johnson, "it was sent by _Junius_." The "False Alarm," his first and favourite pamphlet, was written at our house between *eight o'clock* on Wednesday night and twelve o'clock on Thursday night.|Hester Lynch Piozzi|Anecdotes of the late Samuel Johnson, LL.D. During the Last Twenty Years of His Life
 20:00|"I am dining at *eight o'clock*." "Stay but for one moment," Selingman begged.|E. Phillips (Edward Phillips) Oppenheim|The Double Traitor
 20:00|"QUI PERD, GAGNE." Once more I was back in the thick of it all, and till the closing of the poll at *eight o'clock* I strove, in company with Cash, Robin, and others, to direct the inclinations of my constituents into the proper channels.|Ian Hay|The Right Stuff: Some Episodes in the Career of a North Briton
 20:00|"We will meet at Dauriat's, Lucien, in the Wooden Galleries at *eight o'clock*," said Etienne Lousteau.|Honore de Balzac|A Distinguished Provincial at Paris
@@ -3278,6 +3306,7 @@
 20:00|She arrived punctually at *eight o'clock* next Sunday, carrying an exiguous green linen bag, which contained her dresses.|John Galsworthy|Beyond
 20:00|Take notice that our stay at Dyer's will not exceed *eight o'clock*, after which our pursuits will be our own.|Charles Lamb|The Best Letters of Charles Lamb
 20:00|The curtain, timed to be raised at *eight o'clock*, was still down, though it was close on half-past, and the public was growing impatient.|Emmuska Orczy, Baroness Orczy|El Dorado: An Adventure of the Scarlet Pimpernel
+20:00|The storm of rain and wind descended upon them towards *eight o'clock*.|Jules Verne|Around the World in Eighty Days
 20:00|The whole town took a drive after that, and supped at *eight o'clock*.|Martha Summerhayes|Vanished Arizona: Recollections of the Army Life by a New England Woman
 20:00|They arrived at exactly *eight o'clock* and departed before eleven.|Gustave Flaubert|Three short works The Dance of Death, the Legend of Saint Julian the Hospitaller, a Simple Soul.
 20:00|Throughout the day a provokingly light wind prevailed, and at *eight o'clock*, a small fishing schooner, which we passed, told us we were nearly abreast of Chatham lights.|Richard Henry Dana|Two Years Before the Mast
@@ -3301,6 +3330,7 @@
 20:15|An' they're heavy enough to turn right into the plowin', too." The evening of the fight at *quarter past eight*, Saxon parted from Billy.|Jack London|The Valley of the Moon
 20:15|He hopes to make the cavalry, and he says he wants to train that wrist for wielding a sabre." "Can you two near-plebes find time to drop in this evening, at just *8.15*?" demanded Greg.|H. Irving (Harrie Irving) Hancock|Dick Prescott's Second Year at West Point Or, Finding the Glory of the Soldier's Life
 20:15|Joe had been at the Three Jolly Bargemen, smoking his pipe, from *a quarter after eight* o'clock to a quarter before ten.|Charles Dickens|Great Expectations
+20:15|Rain set in early in the evening, and it rained hard all night. _Friday, 22d._ Raining; left at *a quarter past eight*, with the wind ahead.|John James Audubon|Audubon and His Journals, Volume 2
 20:15|She came in about *a quarter past eight*, half way through dinner." "Where had she been?" asked the bishop.|H. G. (Herbert George) Wells|The soul of a bishop
 20:15|The train left at 10 A.M., and I arrived at Auchterarder depot at *8.15 P.M.*|Joe Cassells|The Black Watch: A Record in Action
 20:16|"We expect to reach Pittsburgh to-night, *between eight and nine o'clock*; and there we ardently hope to find your March letters awaiting us.|John Forster|The Life of Charles Dickens, Vol. I-III, Complete
@@ -3353,7 +3383,7 @@
 20:30|She was alive and able to send a message at *half past eight* this evening." "A message?|Auguste Groner|The Case of the Pocket Diary Found in the Snow
 20:30|Sophy had ordered dinner for *half-past eight* that evening out of consideration for her mother-in-law's habits.|Amelie Rives|Shadows of Flames: A Novel
 20:30|The captain had drunk hard the night before; he was far from sober when he was roused; and when he came on deck for the first time at *half-past eight*, it was plain he had already drunk deep again at breakfast.|Robert Louis Stevenson|The Ebb-Tide: A Trio And Quartette
-20:30|The hour of the Ave Maria came as on the evening before; but, as on the evening before, the waiting of the whole day was lost; for, as *half-past eight* struck, the daily smoke reappeared at the top of the chimney.|Alexandre Dumas|The Borgias Celebrated Crimes
+20:30|The next day we returned to Isnik, having to bear the heat of the sun from *half-past eight* till three in the afternoon.|John Yeardley|Memoir and Diary of John Yeardley, Minister of the Gospel
 20:30|They all sat down to play lotto at *half-past eight*, except old Grandet, who never played any game.|Arthur [Editor] Mee|The World's Greatest Books -- Volume 01 -- Fiction
 20:30|W.); 8 P.M., a line of heavy cumuli in south; *8.30 P.M.*, a very bright and high cumulus in S.|T. B. (Thomas Belden) Butler|The Philosophy of the Weather. And a Guide to Its Changes
 20:30|What time do we dine to-day?" "Not till *half-past eight*." "I shall go in, and sit down quietly and try to feel old.|Robert Hichens|The Green Carnation
@@ -3376,6 +3406,7 @@
 20:45|Admitting that he was at this moment taking an express train, he could reach London and the Reform Club by *a quarter before nine*, p.m.|Jules Verne|Around the World in Eighty Days
 20:45|Fighting between Filipinos and Americans began at Santa Mesa *8.45 P.M.*, and continued through the night.|Frederic H. Sawyer|The Inhabitants of the Philippines
 20:45|Fogg calculated upon gaining this space of time, and so, instead of reaching Liverpool next evening, he would be there at noon, and be able to reach London by *a quarter to nine* p.m.|Jules Verne|Round the World in Eighty Days
+20:45|He started late, lost his way, but finally reached the summit at *8.45 P.M.*, and then, as he notes in his diary: 'Fog came on nearly at once with rain and thunder.|James Gilmour|James Gilmour of Mongolia: His diaries, letters, and reports
 20:45|In the longest days it does not withdraw to rest till *a quarter before nine* in the evening, being the latest of all day birds.|Gilbert White|The Natural History of Selborne
 20:45|On their way back they dined at Walton, and again reached the Horseferry by *a quarter before nine*.|Walter Bradford Woodgate|Boating
 20:45|They know that the play begins at *a quarter to nine*." "It isn't like Dicky Vanderpole in the least," Penelope said.|E. Phillips (Edward Phillips) Oppenheim|The Illustrious Prince
@@ -3421,6 +3452,7 @@
 21:00|It being now *nine o'clock*, wine and macaroons were again served round, and we parted, with a promise to go again next week, and meet the Miss Porters, who, it seems, have heard much of Mr.|Charles Lamb|The Best Letters of Charles Lamb
 21:00|It lasted till *nine o'clock*, and Disko was thrice heard to chuckle as Harvey pitched the split fish into the hold.|Rudyard Kipling|"Captains Courageous": A Story of the Grand Banks
 21:00|It was *nine o'clock* before they departed, and then they only left to please the landlord.|W. W. (William Wymark) Jacobs|Admiral Peters Odd Craft, Part 14.
+21:00|It was *nine o'clock* or after, and the fury of the storm was increasing.|Francis B. (Francis Bail) Pearson|Reveries of a Schoolmaster
 21:00|It was *nine o'clock* when the limping boy and the slender girl followed the tall youth and the plump little girl down the walk from the Culpepper home through the gate and into the main road.|William Allen White|A Certain Rich Man
 21:00|It was a little after *nine o'clock* when the boys turned in, and a few minutes later the two old miners followed them.|Edward Stratemeyer|Dave Porter in the Gold Fields; Or, The Search for the Landslide Mine
 21:00|It was as yet but *nine o'clock*, and he had no alternative but to go to bed.|Anthony Trollope|Phineas Redux
@@ -3434,7 +3466,6 @@
 21:00|The last did not go away till after *nine o'clock*." "I am glad you were not alone, mother," said Ben, thinking some of his mother's neighbors might have called.|Horatio, Jr. Alger|The Store Boy
 21:00|The rubbers usually ended at *nine o'clock*, after which the company withdrew.|Honore de Balzac|The Village Rector
 21:00|There was another wait of half an hour toward *nine o'clock*, but I had gone through so much by that time that I had no spirit left, and so had no desire but to be let alone.|Mark Twain|A Tramp Abroad
-21:00|Though we did not know it, we were in for a long spell, for it was not until nearly *nine o'clock* that our man reappeared on board.|Guy Boothby|My Strangest Case
 21:01|"So likewise that meteor which was seen in 1708, on the 31st of July, *between nine and ten o'clock* at night, was evidently between forty and fifty miles perpendicularly high, and as near as I can gather, over Shereness and the buoy on the Nore.|Henry Smith Williams|A History of Science -- Volume 3
 21:02|"So likewise that meteor which was seen in 1708, on the 31st of July, *between nine and ten o'clock* at night, was evidently between forty and fifty miles perpendicularly high, and as near as I can gather, over Shereness and the buoy on the Nore.|Henry Smith Williams|A History of Science -- Volume 3
 21:03|She arrived two or *three minutes after nine*, but still in fairly good time to see a number of dark heads surrounding a bright light.|L. T. Meade|The Rebel of the School
@@ -3452,6 +3483,7 @@
 21:15|As it was, I had set off at seven o'clock on the following evening, and at *a quarter past nine* I was asking at the Hermitage for Count Joseph, just as full of the story I had to tell as a history-book of kings.|Max Pemberton|The Man Who Drove the Car
 21:15|At *quarter past nine*, with hot water, ice, and everything ready in anticipation, she heard the gate click and Billy's step come up the porch.|Jack London|The Valley of the Moon
 21:15|But a telegraphic message has arrived--Sir Omicron Pie will be here by the *9.15 P.M.* train.|Anthony Trollope|Barchester Towers
+21:15|It would be coming on for *a quarter-past nine*, and a misty night, when I reached the school-house, and I was so weary of mind and body that I sat down without taking off my bonnet.|J. M. (James Matthew) Barrie|The Little Minister
 21:15|WEATHER PERMITTING.' 'The General Assembly of the Free Church of Scotland admits Miss Hamilton to any gallery on any day.' 'The Marchioness of Heatherdale is At Home on the 26th of May from *a quarter-past nine* in the evening.|Kate Douglas Smith Wiggin|Penelope's Experiences in Scotland Being Extracts from the Commonplace Book of Penelope Hamilton
 21:16|"So likewise that meteor which was seen in 1708, on the 31st of July, *between nine and ten o'clock* at night, was evidently between forty and fifty miles perpendicularly high, and as near as I can gather, over Shereness and the buoy on the Nore.|Henry Smith Williams|A History of Science -- Volume 3
 21:17|"So likewise that meteor which was seen in 1708, on the 31st of July, *between nine and ten o'clock* at night, was evidently between forty and fifty miles perpendicularly high, and as near as I can gather, over Shereness and the buoy on the Nore.|Henry Smith Williams|A History of Science -- Volume 3
@@ -3503,11 +3535,11 @@
 21:30|The caves were reached at *9.30 p.m.*, the last of the march of seven miles being very difficult travelling, and taking three hours to surmount.|Waller Ashe|The Story of the Zulu Campaign
 21:30|The fires were trimmed, and made to blaze brightly; fuel enough was left to keep them so for some hours; and finally, about *half-past nine* o'clock the troops formed in marching order, and moved off in the most profound silence.|G. R. (George Robert) Gleig|The Campaigns of the British Army at Washington and New Orleans 1814-1815
 21:30|The next letter is dated from his town lodgings.) I left town for the inn where I slept last night at *half-past nine*, and did not arrive at my room in town until one o'clock this afternoon.|Joseph Sheridan Le Fanu|In a Glass Darkly, v. 1/3
+21:30|The snow made automobiling impossible, and at *half past nine* that evening Ditmar had escorted Janet to the station in a cab, and she had taken the train for Hampton.|Winston Churchill|The Dwelling Place of Light -- Complete
 21:30|Then if Aunt Juliet dares to tell me ever again to go to bed at *half past nine* I shall simply grin like a dog and run about through the city.|George A. Birmingham|Priscilla's Spies
 21:30|There was a solid hour and a quarter of it, and when Roy went to bed at *half-past nine*, a half hour earlier than usual, formations and signals were still buzzing through his brain.|Ralph Henry Barbour|The Crimson Sweater
 21:30|This evening, from six to *half past nine*, we had a meeting for inquirers.|George Muller|The Life of Trust: Being a Narrative of the Lord's Dealings With George Muller
 21:30|We all reassemble at seven for tea and coffee; then spend a pleasant chatty hour or two, or disperse at about *half-past nine*, having had more amusement than can be enjoyed at a mere dinner-party.|Charles Acland|A Popular Account of the Manners and Customs of India
-21:30|We shall have enough partners for you to begin to dance by *half-past nine*, and I can promise you as pretty partners as you can find in any ball-room in England.|G. A. (George Alfred) Henty|The Curse of Carne's Hold: A Tale of Adventure
 21:31|He died *9.31 p.m.*; the others--Watts, mother, Christina, and nurse, in room; Caine and Shields in and out; Watts at Gabriel's right side, partly supporting him.' That Mr.|James Douglas|Theodore Watts-Dunton: Poet, Novelist, Critic
 21:32|"So likewise that meteor which was seen in 1708, on the 31st of July, *between nine and ten o'clock* at night, was evidently between forty and fifty miles perpendicularly high, and as near as I can gather, over Shereness and the buoy on the Nore.|Henry Smith Williams|A History of Science -- Volume 3
 21:33|"So likewise that meteor which was seen in 1708, on the 31st of July, *between nine and ten o'clock* at night, was evidently between forty and fifty miles perpendicularly high, and as near as I can gather, over Shereness and the buoy on the Nore.|Henry Smith Williams|A History of Science -- Volume 3
@@ -3551,6 +3583,7 @@
 22:00|About *ten o'clock* we started for bed, droppin' in to take a look at Homer.|Sewell Ford|Shorty McCabe
 22:00|As he thought well of the young men who left his drawing-room by *ten o'clock*, so he placed in a higher estimate those who attended chapel regularly, especially if they got there in proper time.|Robert E. (Robert Edward) Lee|Recollections and Letters of General Robert E. Lee
 22:00|At *ten o'clock* I was to meet the Emperor in the forest.|Arthur Conan Doyle|The Exploits of Brigadier Gerard
+22:00|At *ten o'clock* a vivid flash showed them the palisade, and as they reached the gate the storm burst forth with tremendous fury.|Jules Verne|The Mysterious Island
 22:00|At *ten o'clock* he came away, choosing a circuitous route homeward to pass the gates of the college whose head had just sent him the note.|Thomas Hardy|Jude the Obscure
 22:00|At *ten o'clock* his mother, uneasy at his absence, went to look for him, and found him writing in the midst of a pile of blotted and half-torn paper.|Honore de Balzac|Beatrix
 22:00|At *ten o'clock* the rain began to pour in torrents.|Thomas, Jr. Dixon|The Victim: A Romance of the Real Jefferson Davis
@@ -3580,7 +3613,6 @@
 22:00|Please, please, auntie, say I may." "My darling--until *ten o'clock*! so awfully late.|L. T. Meade|A Young Mutineer
 22:00|Something past *ten o'clock*, I went on board, and directed English to cast off the fastenings and to get ready to make sail.|Daniel Drayton|Personal Memoir of Daniel Drayton, for Four Years and Four Months a Prisoner (for Charity's Sake) in Washington Jail Including a Narrative of the Voyage and Capture of the Schooner Pearl
 22:00|The President of the United States announces to the country, that the news from the Army of the Potomac, up to *ten o'clock* P.|Willard W. Glazier|Three Years in the Federal Cavalry
-22:00|The boys were tired out, having put in a busy day, and by *ten o'clock* Sam and Tom were both yawning.|Edward Stratemeyer|The Rover Boys at College; Or, The Right Road and the Wrong
 22:01|"So, soon as Sam told that--'twa'n't more 'n half an hour ago--I says to him, 'You go an' stir up some o' the boys, an' 'long *towards ten o'clock* you jest surround the old Pelton house an' git him, tea-set an' all.|Alice Brown|Country Neighbors
 22:02|"So, soon as Sam told that--'twa'n't more 'n half an hour ago--I says to him, 'You go an' stir up some o' the boys, an' 'long *towards ten o'clock* you jest surround the old Pelton house an' git him, tea-set an' all.|Alice Brown|Country Neighbors
 22:03|"At *three minutes past ten* that evening the Tsar looked into the eye-piece of the Greenwich Equatorial, and saw a double-winged yellow shape floating in the centre of the field of vision."|George Chetwynd Griffith|The World Peril of 1910
@@ -3694,7 +3726,6 @@
 23:00|"It has been my custom to stroll round there every night about *eleven o'clock*, when the lights are put out, generally to the minute," he said.|William Le Queux|The Stolen Statesman: Being the Story of a Hushed Up Mystery
 23:00|"It is *eleven o'clock*; she must have returned from the Ambigu," said Rochefide, leaving the club.|Honore de Balzac|Beatrix
 23:00|"It's a funny time to talk about house repairs at *eleven o'clock*, at night," he remarked.|William John Locke|The Red Planet
-23:00|"Now, candidly, is it the thing to seek the presence of the President of the Academy of Sciences between *eleven o'clock* and midnight, to pour such silly stuff into his ear?|Victor Cherbuliez|Samuel Brohl and Company
 23:00|"Understand," said that gentleman, with whom the affair of the half-sovereign still rankled, "your drink is shandygaff." They returned to the brig at *eleven o'clock*, Mr.|W. W. (William Wymark) Jacobs|Sea urchins
 23:00|*Eleven o'clock* struck from the power-house clock; lights were extinguished; at one o'clock the cable stopped, leaving an abrupt and numbing silence in the air.|Frank Norris|McTeague: A Story of San Francisco
 23:00|A nurse of the doctor's choice succeeded them, and never left till about ten or *eleven o'clock*, when Valentine was asleep.|Alexandre Dumas|The Count of Monte Cristo
@@ -3702,6 +3733,7 @@
 23:00|All at once, at about *eleven o'clock*, the moon burst brightly forth through a rift in the clouds, and the waves sparkled again as if illumined by a submarine glimmer.|Jules Verne|The Survivors of the Chancellor: Diary of J.R. Kazallon, Passenger
 23:00|Anything will do, as long as it doesn't send us to bed at *eleven o'clock*." Mr.|Wilkie Collins|No Name
 23:00|At *eleven o'clock* Rivermouth is as quiet as a country churchyard.|Thomas Bailey Aldrich|The Story of a Bad Boy
+23:00|At *eleven o'clock* a heavy rain began to pour.|M. F. (Manning Ferguson) Force|From Fort Henry to Corinth
 23:00|At *eleven o'clock* precisely, he heard the rolling of a heavy carriage under the arch, then of another, then of a third; after which the gate grated upon its hinges to be closed.|Alexandre Dumas|Ten Years Later
 23:00|At *eleven o'clock* the hut was shaken by a tremendous explosion, followed a few minutes afterwards by another.|G. A. (George Alfred) Henty|Jack Archer: A Tale of the Crimea
 23:00|At *eleven o'clock*, after the portress had gone to bed, the cook cautiously opened the garden-gate.|Maurice Leblanc|The Crystal Stopper
@@ -3767,6 +3799,7 @@
 23:30|After supper he accordingly went for his "look in," and arriving at *half-past eleven*, was in time for dinner, which did not take place till half-past twelve, the court having adjourned at 12.15.|Henry Hawkins, Baron Brampton|The Reminiscences of Sir Henry Hawkins (Baron Brampton)
 23:30|At *half past eleven* I must confess that I heard a singular sound.|Elizabeth Stuart Phelps|Men, Women, and Ghosts
 23:30|At *half past eleven* P.M. we sat down to a supper of ducks, catfish, and coffee, and all the men were in fine spirits.|Hazard Stevens|The Life of Isaac Ingalls Stevens, Volume 1 (of 2)
+23:30|At *half-past eleven* P.M. very strong gales split our foresail; St.|John, Sir Ross|Memoirs and Correspondence of Admiral Lord de Saumarez. Vol II
 23:30|At *half-past eleven* the same evening Mapleson, who was dining in St John's Wood, was called by an excited servant to look out of the window, and saw the sky red in the distance.|M. (Malcolm) Sterling Mackinlay|Garcia the Centenarian and His Times Being a Memoir of Manuel Garcia's Life and Labours for the Advancement of Music and Science
 23:30|But the steamer had to sail for Europe at two o'clock in the afternoon; and this rendered it necessary that my morning performance should commence at *half-past eleven*, the box-office opening at eight.|James Henry Mapleson|The Mapleson Memoirs, 1848-1888, vol I
 23:30|Captain Le Strange met us at Plymouth, and we dined at Devonport, and were escorted on board at *11.30 p.m.*|Leslie, Sir Ward|Forty years of 'Spy'
@@ -3806,6 +3839,7 @@
 23:45|"You read Lupin's telegram: 'I shall come to-night between *a quarter to twelve* and midnight to take the coronet.' He knows that it was in my bedroom.|Maurice Leblanc|Arsene Lupin
 23:45|I began my address at *a quarter of twelve* and left the hall at midnight.|Anna Howard Shaw|The Story of a Pioneer
 23:45|Sam had two classes to attend before dinner, so it was not until *quarter to twelve* that he had a chance to run up to the room again.|Edward Stratemeyer|The Rover Boys in Alaska; or, Lost in the Fields of Ice
+23:45|She stood for a moment looking at the great iron gate, and then at the clock-face glowing dully through the falling snow: it showed *a quarter to twelve*.|Richard Harding Davis|Van Bibber and Others
 23:45|The church-clock had struck *a quarter to twelve* and I thought that this must have made her hurry, for she began almost to run and continued hastening until she came to the church." Q.|Gaston Leroux|The Phantom of the Opera
 23:46|*Between eleven and twelve o'clock*, our hero, with other musical and literary competitors, entered the Town-Hall, in bardic trim, with the harp of his friend Ianto Gwyn, slung by a blue ribbon, and attached to his shoulder.|T. J. Llewelyn (Thomas Jeffery Llewelyn) Prichard|The Comical Adventures of Twm Shon Catty (Thomas Jones, Esq.), Commonly known as the Welsh Robin Hood
 23:47|The first read: "Tsarskoe-Selo, December 30th, *11:47 p.m.*|William Le Queux|Rasputin the Rascal Monk Disclosing the Secret Scandal of the Betrayal of Russia by the Mock-Monk Grichka and the Consequent Ruin of the Romanoffs. With official documents revealed and recorded for the first time.

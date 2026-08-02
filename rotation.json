@@ -1,49 +1,49 @@
 {
-  "_comment": "Rotating quote volumes. rotate_quotes.py picks volumes[index], writes manifest.json, then advances index (mod 6) and bumps release. vol1 (index 0) is already live as release 1, so we start at index 1 / release 2.",
-  "index": 2,
-  "release": 3,
+  "_comment": "Rotating quote volumes. rotate_quotes.py picks volumes[index], writes manifest.json, then advances index (mod 6) and bumps release. Volumes rebuilt 2026-08-02 with the weather-aware allocation (every taggable minute carries a tagged passage plus an alternative in every volume). Files are 4-field HH:MM|text|author|book - weather_tags CANNOT ship as a 5th field until firmware parses it: parseQuote takes everything after the third pipe as the book title, so a 5th field prints on the glass.",
+  "index": 3,
+  "release": 4,
   "volumes": [
     {
       "vol": 1,
-      "file": "quotes-vol1-20260723.txt",
-      "url": "https://quotes.storytimeclock.com/quotes-vol1-20260723.txt",
-      "sha256": "841dd1968c5729c7a6e74c12da605102b0b70c475c8fb6602f19583bf6515e6d",
-      "size": 737859
+      "file": "quotes-vol1-20260802.txt",
+      "url": "https://quotes.storytimeclock.com/quotes-vol1-20260802.txt",
+      "sha256": "b6722bcf509c017931c96b2f335a9d60e0f299814546901ff4121d4c7d3ee333",
+      "size": 744389
     },
     {
       "vol": 2,
-      "file": "quotes-vol2-20260723.txt",
-      "url": "https://quotes.storytimeclock.com/quotes-vol2-20260723.txt",
-      "sha256": "574331d3977db8b90b50234341b8c7e5159f9791522bd34e001328f3958a2cf6",
-      "size": 811892
+      "file": "quotes-vol2-20260802.txt",
+      "url": "https://quotes.storytimeclock.com/quotes-vol2-20260802.txt",
+      "sha256": "340c90a87ecd03f0786fa5cd1ad766515d35db2f330bafa5417f52fb7720dd83",
+      "size": 819712
     },
     {
       "vol": 3,
-      "file": "quotes-vol3-20260723.txt",
-      "url": "https://quotes.storytimeclock.com/quotes-vol3-20260723.txt",
-      "sha256": "eaa75007eed5fa3f4d2b344ad157b3490a5387b6dac5a160b2f0acc54743c3de",
-      "size": 794998
+      "file": "quotes-vol3-20260802.txt",
+      "url": "https://quotes.storytimeclock.com/quotes-vol3-20260802.txt",
+      "sha256": "7257d4efd853f3a7fac46427196af75794519edc55e94031e34c9504c7393e8d",
+      "size": 804139
     },
     {
       "vol": 4,
-      "file": "quotes-vol4-20260723.txt",
-      "url": "https://quotes.storytimeclock.com/quotes-vol4-20260723.txt",
-      "sha256": "72e547e8e4554a759ef2508615e2877f93b88a94bfe73237e768549b8c94dfef",
-      "size": 803204
+      "file": "quotes-vol4-20260802.txt",
+      "url": "https://quotes.storytimeclock.com/quotes-vol4-20260802.txt",
+      "sha256": "24b094ab14a46dafae93c18f4df937ef4d6caa71e95709f4133236d74cafecdf",
+      "size": 812998
     },
     {
       "vol": 5,
-      "file": "quotes-vol5-20260723.txt",
-      "url": "https://quotes.storytimeclock.com/quotes-vol5-20260723.txt",
-      "sha256": "3d60b8b5fe94021b2f5f906b064862eb74f89e833f437cfae62885ae452e099b",
-      "size": 759334
+      "file": "quotes-vol5-20260802.txt",
+      "url": "https://quotes.storytimeclock.com/quotes-vol5-20260802.txt",
+      "sha256": "dae9f96472a10fbc766caa5d7a5a9529707f302ccaee69b79a5f1301a264d683",
+      "size": 768819
     },
     {
       "vol": 6,
-      "file": "quotes-vol6-20260723.txt",
-      "url": "https://quotes.storytimeclock.com/quotes-vol6-20260723.txt",
-      "sha256": "d1408f6e4f26e330ca722c7c00a69836077a199847901a095d379199691a0e68",
-      "size": 759820
+      "file": "quotes-vol6-20260802.txt",
+      "url": "https://quotes.storytimeclock.com/quotes-vol6-20260802.txt",
+      "sha256": "e3d379aa2a7f2949e3071722837ee088fb4d9944e433a051fb0158243b710af0",
+      "size": 770161
     }
   ]
 }

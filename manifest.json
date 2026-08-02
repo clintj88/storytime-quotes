@@ -1,8 +1,8 @@
 {
-  "version": "r2-vol2",
-  "released": "2026-08-01",
-  "sha256": "574331d3977db8b90b50234341b8c7e5159f9791522bd34e001328f3958a2cf6",
-  "size": 811892,
-  "url": "https://quotes.storytimeclock.com/quotes-vol2-20260723.txt",
-  "notes": "Rotating corpus, Volume 2 of 6 (release 2). Clean-room public-domain, all 1440 minutes covered."
+  "version": "r3-vol3",
+  "released": "2026-08-02",
+  "sha256": "7257d4efd853f3a7fac46427196af75794519edc55e94031e34c9504c7393e8d",
+  "size": 804139,
+  "url": "https://quotes.storytimeclock.com/quotes-vol3-20260802.txt",
+  "notes": "Rotating corpus, Volume 3 of 6 (release 3). Clean-room public-domain, all 1440 minutes covered."
 }
