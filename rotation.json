@@ -1,49 +1,49 @@
 {
-  "_comment": "Rotating quote volumes. rotate_quotes.py picks volumes[index], writes manifest.json, then advances index (mod 6) and bumps release. Volumes rebuilt 2026-08-02 with the weather-aware allocation (every taggable minute carries a tagged passage plus an alternative in every volume). Files are 4-field HH:MM|text|author|book - weather_tags CANNOT ship as a 5th field until firmware parses it: parseQuote takes everything after the third pipe as the book title, so a 5th field prints on the glass.",
+  "_comment": "Rotating quote volumes. rotate_quotes.py picks volumes[index], writes manifest.json, then advances index (mod 6) and bumps release. Volumes carry weather tags as an OPTIONAL 5th field (HH:MM|text|author|book|tag,tag) as of 2026-08-02. That field REQUIRES firmware >= 2.5.0, which bounds the book title at a fourth pipe; on 2.4.0 and earlier parseQuote takes everything after the third pipe as the book title and the tags print on the glass. Rebuild with: cd storytime/corpus && NVOL=6 python3 make_volumes.py (NVOL defaults to 4, which silently produces a different allocation and orphans vol5/vol6).",
   "index": 3,
   "release": 4,
   "volumes": [
     {
       "vol": 1,
-      "file": "quotes-vol1-20260802.txt",
-      "url": "https://quotes.storytimeclock.com/quotes-vol1-20260802.txt",
-      "sha256": "b6722bcf509c017931c96b2f335a9d60e0f299814546901ff4121d4c7d3ee333",
-      "size": 744389
+      "file": "quotes-vol1-20260802-wx.txt",
+      "url": "https://quotes.storytimeclock.com/quotes-vol1-20260802-wx.txt",
+      "sha256": "f0ad8e38f113e8c196282e7b728b492058e63af63f78e4b9a212568dd25b3296",
+      "size": 744951
     },
     {
       "vol": 2,
-      "file": "quotes-vol2-20260802.txt",
-      "url": "https://quotes.storytimeclock.com/quotes-vol2-20260802.txt",
-      "sha256": "340c90a87ecd03f0786fa5cd1ad766515d35db2f330bafa5417f52fb7720dd83",
-      "size": 819712
+      "file": "quotes-vol2-20260802-wx.txt",
+      "url": "https://quotes.storytimeclock.com/quotes-vol2-20260802-wx.txt",
+      "sha256": "835057d74b2cea299a7e09dd2c7fd0b2e44a5269c600797f4a23e8f0215d2108",
+      "size": 820254
     },
     {
       "vol": 3,
-      "file": "quotes-vol3-20260802.txt",
-      "url": "https://quotes.storytimeclock.com/quotes-vol3-20260802.txt",
-      "sha256": "7257d4efd853f3a7fac46427196af75794519edc55e94031e34c9504c7393e8d",
-      "size": 804139
+      "file": "quotes-vol3-20260802-wx.txt",
+      "url": "https://quotes.storytimeclock.com/quotes-vol3-20260802-wx.txt",
+      "sha256": "8634996b3321397796212fb92e137c5957d7f74c81f8b200e19b6356ae86887d",
+      "size": 805049
     },
     {
       "vol": 4,
-      "file": "quotes-vol4-20260802.txt",
-      "url": "https://quotes.storytimeclock.com/quotes-vol4-20260802.txt",
-      "sha256": "24b094ab14a46dafae93c18f4df937ef4d6caa71e95709f4133236d74cafecdf",
-      "size": 812998
+      "file": "quotes-vol4-20260802-wx.txt",
+      "url": "https://quotes.storytimeclock.com/quotes-vol4-20260802-wx.txt",
+      "sha256": "fff404f043d14b2c550f15cf2f14821e2a58b13a41c444a775362f7000a11a64",
+      "size": 813600
     },
     {
       "vol": 5,
-      "file": "quotes-vol5-20260802.txt",
-      "url": "https://quotes.storytimeclock.com/quotes-vol5-20260802.txt",
-      "sha256": "dae9f96472a10fbc766caa5d7a5a9529707f302ccaee69b79a5f1301a264d683",
-      "size": 768819
+      "file": "quotes-vol5-20260802-wx.txt",
+      "url": "https://quotes.storytimeclock.com/quotes-vol5-20260802-wx.txt",
+      "sha256": "aa5bc7fc361a1728ba298fbdcdb38e48ce6eee5ea1f7bde1bd114ff40e73daa5",
+      "size": 769480
     },
     {
       "vol": 6,
-      "file": "quotes-vol6-20260802.txt",
-      "url": "https://quotes.storytimeclock.com/quotes-vol6-20260802.txt",
-      "sha256": "e3d379aa2a7f2949e3071722837ee088fb4d9944e433a051fb0158243b710af0",
-      "size": 770161
+      "file": "quotes-vol6-20260802-wx.txt",
+      "url": "https://quotes.storytimeclock.com/quotes-vol6-20260802-wx.txt",
+      "sha256": "fceb144569413e9c0c92b5f85c2fa88e28a29296c624b4088f98122182cb6135",
+      "size": 770836
     }
   ]
 }
