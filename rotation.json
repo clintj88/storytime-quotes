@@ -1,7 +1,7 @@
 {
   "_comment": "Rotating quote volumes. rotate_quotes.py picks volumes[index], writes manifest.json, then advances index (mod 6) and bumps release. Volumes carry weather tags as an OPTIONAL 5th field (HH:MM|text|author|book|tag,tag) as of 2026-08-02. That field REQUIRES firmware >= 2.5.0, which bounds the book title at a fourth pipe; on 2.4.0 and earlier parseQuote takes everything after the third pipe as the book title and the tags print on the glass. Rebuild with: cd storytime/corpus && NVOL=6 python3 make_volumes.py (NVOL defaults to 4, which silently produces a different allocation and orphans vol5/vol6).",
-  "index": 4,
-  "release": 5,
+  "index": 5,
+  "release": 6,
   "volumes": [
     {
       "vol": 1,
